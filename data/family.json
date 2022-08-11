@@ -1,0 +1,22 @@
+{
+    "name": "Family",
+    "data": {
+        "cards" : [
+            {
+                "name": "father",
+                "image_url": null,
+                "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/c/cdo/cdo03/cdo0318usfath1774"
+              },
+              {
+                "name": "mother",
+                "image_url": null,
+                "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/m/mot/mothe/mother"
+              },
+              {
+                "name": "sister",
+                "image_url": null,
+                "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/s/sis/siste/sister"
+              }
+        ]
+    }
+}

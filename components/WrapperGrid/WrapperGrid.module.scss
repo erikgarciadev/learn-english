@@ -1,0 +1,27 @@
+/*
+breakpoints
+mobile: 320px - 400px
+tablets: 481px - 768px
+laptops: 769px - 1024px
+desktop:1024px - 1200px
+extralarge: 1201px - more
+*/
+
+.wrapperGrid {
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    gap: 1em;
+    height:100%;
+
+    @media (min-width: 482px) {
+        grid-template-columns: repeat(2,1fr);
+    }
+
+    @media (min-width: 769px) {
+        grid-template-columns: repeat(3,1fr);
+    }
+
+    @media (min-width: 1024px) {
+        grid-template-columns: repeat(4,1fr);
+    }
+}

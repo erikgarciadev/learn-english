@@ -1,0 +1,30 @@
+{
+    "name": "Professions",
+    "data": {
+        "cards" : [{
+            "image_url": "https://drive.google.com/uc?export=view&id=1fhhcmyv-EVdyMtTK3Rt7rjYm-ds__-s7",
+            "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron_ogg/a/ast/astro/astronaut",
+            "name": "astronaut"
+        },
+        {
+            "name": "baker",
+            "image_url": "https://dictionary.cambridge.org/es/images/thumb/baker_noun_004_0165.jpg?version=5.0.250",
+            "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/b/bak/baker/baker"
+          },
+          {
+            "name": "dentist",
+            "image_url": "https://dictionary.cambridge.org/es/images/thumb/dentis_noun_002_10296.jpg?version=5.0.250",
+            "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/e/eus/eus71/eus71219"
+          },
+          {
+            "name": "doctor",
+            "image_url": null,
+            "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/d/doc/docto/doctor"
+          },
+          {
+            "name": "butcher",
+            "image_url": "https://dictionary.cambridge.org/es/images/thumb/butche_noun_004_0587.jpg?version=5.0.250",
+            "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/b/but/butch/butcher"
+          }]
+    }
+}
