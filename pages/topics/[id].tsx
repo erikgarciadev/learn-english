@@ -2,11 +2,12 @@ import type { NextPage } from "next";
 import Layout from "../../components/Layout";
 
 const Topic: NextPage<any> = ({ topic }: { topic: TopicInformation }) => {
+  const sortCards = sortByField<ICardInformation>(topic.data.cards, "name", "asc");
   return (
     <Layout>
       <h1 style={{ textAlign: "center" }}>{topic.name}</h1>
       <WrapperGrid>
-        {topic.data.cards.map((cardInformation, i: number) => (
+        {sortCards.map((cardInformation, i: number) => (
           <CardInformation key={i} cardInformation={cardInformation} />
         ))}
       </WrapperGrid>
@@ -16,9 +17,10 @@ const Topic: NextPage<any> = ({ topic }: { topic: TopicInformation }) => {
 
 import fsPromises from "fs/promises";
 import path from "path";
-import { Topic, TopicInformation } from "../../interfaces/topic";
+import { ICardInformation, Topic, TopicInformation } from "../../interfaces/topic";
 import WrapperGrid from "../../components/WrapperGrid";
 import CardInformation from "../../components/CardInformation";
+import { sortByField } from "../../utils/sortByField";
 // This function gets called at build time
 export async function getStaticPaths() {
   // Call an external API endpoint to get posts

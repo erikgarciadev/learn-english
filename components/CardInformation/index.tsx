@@ -1,12 +1,12 @@
 import Image from "next/image";
-import { CardInformation } from "../../interfaces/topic";
+import { ICardInformation } from "../../interfaces/topic";
 import { urlNoImage } from "../../utils/constants";
 import styles from "./CardInformation.module.scss";
 
 const CardInformation = ({
   cardInformation,
 }: {
-  cardInformation: CardInformation;
+  cardInformation: ICardInformation;
 }) => {
   return (
     <div className={styles.wrapper}>

@@ -3,7 +3,7 @@ export interface Topic {
     title: string
 }
 
-export interface CardInformation {
+export interface ICardInformation {
     name: string
     image_url : string
     audio_url : string
@@ -12,6 +12,6 @@ export interface CardInformation {
 export interface TopicInformation {
     name: string
     data: {
-        cards: CardInformation[]
+        cards: ICardInformation[]
     }
 }
