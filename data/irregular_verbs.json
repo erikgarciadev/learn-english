@@ -1,0 +1,162 @@
+{
+  "name": "Irregular Verbs",
+  "data": {
+    "cards": [],
+    "table": [
+      {
+        "td": [
+          {
+            "name": "arise",
+            "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/a/ari/arise/arise"
+          },
+          {
+            "name": "arose",
+            "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/a/aro/arose/arose"
+          },
+          {
+            "name": "arisen",
+            "audio_url": null
+          },
+          {
+            "name": "surgir"
+          }
+        ]
+      },
+      {
+        "td": [
+          {
+            "name": "be",
+            "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/b/b__/b____/b"
+          },
+          {
+            "name": "was",
+            "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/w/was/was__/was",
+            "name_1": "were",
+            "audio_url_1": "https://dictionary.cambridge.org/es/media/ingles/us_pron/w/wer/were_/were"
+          },
+          {
+            "name": "been",
+            "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/b/bea/bean_/bean"
+          },
+          {
+            "name": "ser"
+          }
+        ]
+      },
+      {
+        "td": [
+          {
+            "name": "beat",
+            "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/b/bea/beat_/beat"
+          },
+          {
+            "name": "beat",
+            "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/b/bea/beat_/beat"
+          },
+          {
+            "name": "beaten",
+            "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/b/bea/beate/beaten_beat"
+          },
+          {
+            "name": "golpear"
+          }
+        ]
+      },
+      {
+        "td": [
+          {
+            "name": "become",
+            "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/b/bec/becom/become"
+          },
+          {
+            "name": "became",
+            "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/b/bec/becam/became_become"
+          },
+          {
+            "name": "become",
+            "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/b/bec/becom/become"
+          },
+          {
+            "name": "convertirse"
+          }
+        ]
+      },
+      {
+        "td": [
+          {
+            "name": "begin",
+            "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/b/beg/begin/begin"
+          },
+          {
+            "name": "began",
+            "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/b/beg/began/began_begin"
+          },
+          {
+            "name": "begun",
+            "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/e/eus/eus70/eus70483"
+          },
+          {
+            "name": "comenzar"
+          }
+        ]
+      },
+      {
+        "td": [
+          {
+            "name": "bet",
+            "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/b/bet/bet__/bet"
+          },
+          {
+            "name": "bet",
+            "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/b/bet/bet__/bet"
+          },
+          {
+            "name": "bet",
+            "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/b/bet/bet__/bet"
+          },
+          {
+            "name": "apostar"
+          }
+        ]
+      },
+      {
+        "td": [
+          {
+            "name": "bite",
+            "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/b/bit/bite_/bite"
+          },
+          {
+            "name": "bit",
+            "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/b/bit/bit__/bit"
+          },
+          {
+            "name": "bitten",
+            "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/c/ca2/ca2us/ca2us018"
+          },
+          {
+            "name": "morder"
+          }
+        ]
+      },
+      {
+        "td": [
+          {
+            "name": "bleed",
+            "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/b/ble/bleed/bleed"
+          },
+          {
+            "name": "bled",
+            "audio_url": null
+          },
+          {
+            "name": "bled",
+            "audio_url": null
+          },
+          {
+            "name": "sangrar"
+          }
+        ]
+      }
+    ]
+  }
+}
