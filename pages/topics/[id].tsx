@@ -38,16 +38,17 @@ const Topic: NextPage<any> = ({ topic }: { topic: TopicInformation }) => {
                             }}
                           >
                             <p>{_data.name}</p>
-                            {_data.audio_url && (
-                              <Audio
-                                sources={[
-                                  {
-                                    type: "mp3",
-                                    audio_url: _data.audio_url,
-                                  },
-                                ]}
-                              />
-                            )}
+                            <Audio
+                              sources={[
+                                {
+                                  type: "mp3",
+                                  audio_url: getUrlAudio(
+                                    _data.lang || "en",
+                                    _data.name
+                                  ),
+                                },
+                              ]}
+                            />
                           </div>
                           {_data.name_1 && (
                             <>
@@ -63,7 +64,10 @@ const Topic: NextPage<any> = ({ topic }: { topic: TopicInformation }) => {
                                   sources={[
                                     {
                                       type: "mp3",
-                                      audio_url: _data.audio_url_1!,
+                                      audio_url: getUrlAudio(
+                                        _data.lang_1 || "en",
+                                        _data.name_1
+                                      ),
                                     },
                                   ]}
                                 />
@@ -95,6 +99,7 @@ import WrapperGrid from "../../components/WrapperGrid";
 import CardInformation from "../../components/CardInformation";
 import { sortByField } from "../../utils/sortByField";
 import Audio from "../../components/Audio";
+import { getUrlAudio } from "../../utils/getUrlAudio";
 // This function gets called at build time
 export async function getStaticPaths() {
   // Call an external API endpoint to get posts

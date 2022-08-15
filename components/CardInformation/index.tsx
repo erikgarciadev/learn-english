@@ -1,6 +1,7 @@
 import Image from "next/image";
 import { ICardInformation } from "../../interfaces/topic";
 import { urlNoImage } from "../../utils/constants";
+import { getUrlAudio } from "../../utils/getUrlAudio";
 import Audio from "../Audio";
 import styles from "./CardInformation.module.scss";
 
@@ -20,16 +21,15 @@ const CardInformation = ({
         alt={cardInformation.name}
       />
       <p>{cardInformation.name}</p>
-      <div  className="wrapper-center">
+      <div className="wrapper-center">
         <Audio
           sources={[
             {
               type: "mp3",
-              audio_url: cardInformation.audio_url,
-            },
-            {
-              type: "ogg",
-              audio_url: cardInformation.audio_url,
+              audio_url: getUrlAudio(
+                cardInformation.lang || "en",
+                cardInformation.name
+              ),
             },
           ]}
         />

@@ -3,7 +3,7 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   images: {
-    domains: ['drive.google.com','dictionary.cambridge.org']
+    domains: ['drive.google.com','dictionary.cambridge.org','cloudfront.net']
   }
 }
 

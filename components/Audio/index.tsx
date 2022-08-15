@@ -33,7 +33,7 @@ export const Audio = ({
           <source
             key={i}
             type={`audio/${source.type}`}
-            src={`${source.audio_url}.${source.type}`}
+            src={`${source.audio_url}`}
           />
         ))}
         {/* <source type="audio/mp3" src={`${cardInformation.audio_url}.mp3`} />

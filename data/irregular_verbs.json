@@ -18,7 +18,8 @@
             "audio_url": null
           },
           {
-            "name": "surgir"
+            "name": "surgir",
+            "lang": "es"
           }
         ]
       },
@@ -39,7 +40,8 @@
             "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/b/bea/bean_/bean"
           },
           {
-            "name": "ser"
+            "name": "ser",
+            "lang": "es"
           }
         ]
       },
@@ -58,7 +60,8 @@
             "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/b/bea/beate/beaten_beat"
           },
           {
-            "name": "golpear"
+            "name": "golpear",
+            "lang": "es"
           }
         ]
       },
@@ -77,7 +80,8 @@
             "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/b/bec/becom/become"
           },
           {
-            "name": "convertirse"
+            "name": "convertirse",
+            "lang": "es"
           }
         ]
       },
@@ -96,7 +100,8 @@
             "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/e/eus/eus70/eus70483"
           },
           {
-            "name": "comenzar"
+            "name": "comenzar",
+            "lang": "en"
           }
         ]
       },
@@ -115,7 +120,8 @@
             "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/b/bet/bet__/bet"
           },
           {
-            "name": "apostar"
+            "name": "apostar",
+            "lang": "es"
           }
         ]
       },
@@ -134,7 +140,8 @@
             "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/c/ca2/ca2us/ca2us018"
           },
           {
-            "name": "morder"
+            "name": "morder",
+            "lang": "es"
           }
         ]
       },
@@ -150,10 +157,12 @@
           },
           {
             "name": "bled",
+            "lang": "en",
             "audio_url": null
           },
           {
-            "name": "sangrar"
+            "name": "sangrar",
+            "lang": "es"
           }
         ]
       }
