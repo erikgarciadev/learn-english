@@ -1,14 +1,12 @@
 import React, {  useRef } from "react";
+import { ISource } from "../../interfaces/topic";
 import AudioIcon from "../Icon/audioIcon";
 import styles from './Audio.module.scss'
 
 export const Audio = ({
   sources,
 }: {
-  sources: {
-    audio_url: string;
-    type: string;
-  }[];
+  sources: ISource[];
 }) => {
   const audioRef = useRef<HTMLAudioElement>(null);
 
@@ -21,7 +19,7 @@ export const Audio = ({
 
   return (
     <>
-      <AudioIcon cursor={'pointer'} fontSize={'35px'} onClick={handlePlayAudio} />
+      <AudioIcon color='#1B85E5' cursor={'pointer'} fontSize={'35px'} onClick={handlePlayAudio} />
       <audio
         // className={styles.audio}
         // controls

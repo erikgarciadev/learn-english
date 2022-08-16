@@ -1,12 +1,19 @@
 export type Lang = "es" | "en";
 
+export interface ISource {
+  audio_url: string;
+  type: string;
+}
+
 export interface Topic {
   slug: string;
   title: string;
 }
 
 export interface ICardInformation {
+  id: number;
   name: string;
+  name_es: string;
   lang?: Lang;
   image_url: string;
   audio_url: string;
