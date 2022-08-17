@@ -1,0 +1,100 @@
+{
+  "name": "Days of the Week",
+  "data": {
+    "cards": [],
+    "table": {
+      "theads": ["English", "Spanish"],
+      "tdata": [
+        {
+          "td": [
+            {
+              "name": "Monday",
+              "lang": "en"
+            },
+            {
+              "name": "Lunes",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "Tuesday",
+              "lang": "en"
+            },
+            {
+              "name": "Martes",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "Wednesday",
+              "lang": "en"
+            },
+
+            {
+              "name": "Miércoles",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "Thursday",
+              "lang": "en"
+            },
+
+            {
+              "name": "Jueves",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "Friday",
+              "lang": "en"
+            },
+
+            {
+              "name": "Viernes",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "Saturday",
+              "lang": "en"
+            },
+
+            {
+              "name": "Sábado",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "Sunday",
+              "lang": "en"
+            },
+
+            {
+              "name": "Domingo",
+              "lang": "es"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

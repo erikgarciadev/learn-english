@@ -1,0 +1,38 @@
+{
+    "name": "Seasons",
+    "data": {
+      "cards": [
+        {
+          "name": "spring",
+          "image_url": "https://media.istockphoto.com/photos/colorful-garden-picture-id1362513839?b=1&k=20&m=1362513839&s=170667a&w=0&h=QvcYwQ1D_e-YZJ2U6cG-KYd3qYv-lMCTbcZCMCzrTho=",
+          "name_es": "primavera",
+          "id": 1
+        },
+        {
+          "name": "summer",
+          "image_url": "https://images.unsplash.com/photo-1564419320415-7f119406236e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxzZWFyY2h8MXx8c3VtbWVyfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+          "name_es": "verano",
+          "id": 2
+        },
+        {
+          "name": "autumn",
+          "image_url": "https://images.unsplash.com/photo-1587502537745-84b86da1204f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxzZWFyY2h8MXx8YXV0dW1ufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+          "name_es": "otoño",
+          "id": 3
+        },
+        {
+          "name": "fall",
+          "image_url": "https://images.unsplash.com/photo-1508935620299-047e0e35fbe3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZmFsbHxlbnwwfHwwfHw%3D&w=1000&q=80",
+          "name_es": "otoño",
+          "id": 4
+        },
+        {
+          "name": "winter",
+          "image_url": "https://images.unsplash.com/photo-1604537466158-719b1972feb8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxzZWFyY2h8MXx8d2ludGVyfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+          "name_es": "invierno",
+          "id": 5
+        }
+      ]
+    }
+  }
+  

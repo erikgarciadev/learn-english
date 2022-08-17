@@ -1,18 +1,28 @@
 {
-    "topics" : [
-        {
-           "slug": "professions",
-           "title": "Professions"
-        },
-        {
-            "slug": "family",
-            "title": "Family"
-        },
-        {
-            "slug": "irregular_verbs",
-            "title": "Irregular Verbs"
-        }
-    ]
+  "topics": [
+    {
+      "slug": "professions",
+      "title": "Professions"
+    },
+    {
+      "slug": "family",
+      "title": "Family"
+    },
+    {
+      "slug": "irregular_verbs",
+      "title": "Irregular Verbs"
+    },
+    {
+      "slug": "months",
+      "title": "Months"
+    },
+    {
+      "slug": "seasons",
+      "title": "Seasons"
+    },
+    {
+        "slug": "days_of_the_week",
+        "title": "Days of the Week"
+      }
+  ]
 }
-
-
