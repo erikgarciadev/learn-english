@@ -19,21 +19,29 @@ export interface ICardInformation {
   audio_url: string;
 }
 
+export interface ITd {
+  name: string;
+      audio_url?: string;
+      name_1?: string;
+      audio_url_1?: string;
+      lang?: Lang;
+      lang_1?: Lang;
+}
+
+export interface ITdata {
+  td: ITd[]
+}
+
 interface ITable {
-  td: {
-    name: string;
-    audio_url?: string;
-    name_1?: string;
-    audio_url_1?: string;
-    lang?: Lang;
-    lang_1?: Lang;
-  }[];
+  theads: string[]
+  tdata : ITdata[]
+ ;
 }
 
 export interface TopicInformation {
   name: string;
   data: {
     cards: ICardInformation[];
-    table?: ITable[];
+    table?: ITable;
   };
 }

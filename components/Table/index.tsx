@@ -1,14 +1,17 @@
 import React, { ReactNode } from "react";
+import { ITd, ITdata, Lang } from "../../interfaces/topic";
+import { getUrlAudio } from "../../utils/getUrlAudio";
+import Audio from "../Audio";
 import styles from "./Table.module.scss";
 
 const Table = ({
   theads,
   tdata = [],
-  tbody = null
+  tbody = null,
 }: {
   theads: string[];
-  tdata?: { children: ReactNode }[];
-  tbody?: ReactNode | ReactNode[]
+  tdata?: ITdata[];
+  tbody?: ReactNode | ReactNode[];
 }) => {
   return (
     <div className={styles.wrapper_table}>
@@ -24,7 +27,19 @@ const Table = ({
           {tbody}
           {tdata.map((data, i) => (
             <tr key={i}>
-              {data.children}
+              {data.td.map((_data, index) => (
+                <Td isBold={index === 0} key={index}>
+                  <div>
+                    <TextAudio text={_data.name} lang={_data.lang || "en"} />
+                    {_data.name_1 && (
+                      <TextAudio
+                        text={_data.name_1}
+                        lang={_data.lang_1 || "en"}
+                      />
+                    )}
+                  </div>
+                </Td>
+              ))}
             </tr>
           ))}
         </tbody>
@@ -41,6 +56,22 @@ export const Td = ({
   children: ReactNode;
 }) => {
   return <td className={isBold ? styles.bold : ""}>{children}</td>;
+};
+
+export const TextAudio = ({ text, lang }: { text: string; lang: Lang }) => {
+  return (
+    <div className={styles.wrapper_text_audio}>
+      <p>{text}</p>
+      <Audio
+        sources={[
+          {
+            type: "mp3",
+            audio_url: getUrlAudio(lang || "en", text),
+          },
+        ]}
+      />
+    </div>
+  );
 };
 
 export default Table;

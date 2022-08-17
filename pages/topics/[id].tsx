@@ -18,69 +18,11 @@ const Topic: NextPage<any> = ({ topic }: { topic: TopicInformation }) => {
           ))}
         </WrapperGrid>
       )}
-      {topic.data.table && topic.data?.table?.length !== 0 && (
+      {topic.data.table?.tdata && topic.data?.table.tdata?.length !== 0 && (
         <div className="wrapper-center">
           <Table
-            theads={["Infinite", "Simple Past", "Past Participle", "Spanish"]}
-            tbody={
-              <>
-                {topic.data.table.map((data, i) => (
-                  <tr key={i}>
-                    {data.td.map((_data, index) => (
-                      <Td isBold={index === 0} key={index}>
-                        <div>
-                          <div
-                            style={{
-                              display: "flex",
-                              alignItems: "center",
-                              justifyContent: "space-between",
-                              gap: "0.5em",
-                            }}
-                          >
-                            <p>{_data.name}</p>
-                            <Audio
-                              sources={[
-                                {
-                                  type: "mp3",
-                                  audio_url: getUrlAudio(
-                                    _data.lang || "en",
-                                    _data.name
-                                  ),
-                                },
-                              ]}
-                            />
-                          </div>
-                          {_data.name_1 && (
-                            <>
-                              <div
-                                style={{
-                                  display: "flex",
-                                  alignItems: "center",
-                                  justifyContent: "space-between",
-                                }}
-                              >
-                                <p>{_data.name_1}</p>
-                                <Audio
-                                  sources={[
-                                    {
-                                      type: "mp3",
-                                      audio_url: getUrlAudio(
-                                        _data.lang_1 || "en",
-                                        _data.name_1
-                                      ),
-                                    },
-                                  ]}
-                                />
-                              </div>
-                            </>
-                          )}
-                        </div>
-                      </Td>
-                    ))}
-                  </tr>
-                ))}
-              </>
-            }
+            theads={topic.data.table.theads || [] }
+            tdata={topic.data.table.tdata || []}
           />
         </div>
       )}
@@ -98,8 +40,8 @@ import {
 import WrapperGrid from "../../components/WrapperGrid";
 import CardInformation from "../../components/CardInformation";
 import { sortByField } from "../../utils/sortByField";
-import Audio from "../../components/Audio";
-import { getUrlAudio } from "../../utils/getUrlAudio";
+
+
 // This function gets called at build time
 export async function getStaticPaths() {
   // Call an external API endpoint to get posts

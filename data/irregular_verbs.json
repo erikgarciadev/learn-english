@@ -2,2417 +2,2420 @@
   "name": "Irregular Verbs",
   "data": {
     "cards": [],
-    "table": [
-      {
-        "td": [
-          {
-            "name": "arise",
-            "lang": "en"
-          },
-          {
-            "name": "arose",
-            "lang": "en"
-          },
-          {
-            "name": "arisen",
-            "lang": "en"
-          },
-          {
-            "name": "surgir",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "be",
-            "lang": "en"
-          },
-          {
-            "name": "was",
-            "lang": "en",
-            "name_1": "were",
-            "lang_1": "en"
-          },
-          {
-            "name": "been",
-            "lang": "en"
-          },
-          {
-            "name": "ser",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "beat",
-            "lang": "en"
-          },
-          {
-            "name": "beat",
-            "lang": "en"
-          },
-          {
-            "name": "beaten",
-            "lang": "en"
-          },
-          {
-            "name": "golpear",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "become",
-            "lang": "en"
-          },
-          {
-            "name": "became",
-            "lang": "en"
-          },
-          {
-            "name": "become",
-            "lang": "en"
-          },
-          {
-            "name": "convertirse",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "\nbegin",
-            "lang": "en"
-          },
-          {
-            "name": "began",
-            "lang": "en"
-          },
-          {
-            "name": "begun",
-            "lang": "en"
-          },
-          {
-            "name": "\ncomenzar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "bet",
-            "lang": "en"
-          },
-          {
-            "name": "bet",
-            "lang": "en",
-            "name_1": "betted",
-            "lang_1": "en"
-          },
-          {
-            "name": "bet",
-            "lang": "en",
-            "name_1": "betted",
-            "lang_1": "en"
-          },
-          {
-            "name": "apostar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "bite",
-            "lang": "en"
-          },
-          {
-            "name": "bit",
-            "lang": "en"
-          },
-          {
-            "name": "bitten",
-            "lang": "en"
-          },
-          {
-            "name": "morder",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "bleed",
-            "lang": "en"
-          },
-          {
-            "name": "bled",
-            "lang": "en"
-          },
-          {
-            "name": "bled",
-            "lang": "en"
-          },
-          {
-            "name": "sangrar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "blow",
-            "lang": "en"
-          },
-          {
-            "name": "blew",
-            "lang": "en"
-          },
-          {
-            "name": "blown",
-            "lang": "en"
-          },
-          {
-            "name": "soplar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "break",
-            "lang": "en"
-          },
-          {
-            "name": "broke",
-            "lang": "en"
-          },
-          {
-            "name": "broken",
-            "lang": "en"
-          },
-          {
-            "name": "romper",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "bring",
-            "lang": "en"
-          },
-          {
-            "name": "brought",
-            "lang": "en"
-          },
-          {
-            "name": "brought",
-            "lang": "en"
-          },
-          {
-            "name": "traer",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "build",
-            "lang": "en"
-          },
-          {
-            "name": "built",
-            "lang": "en"
-          },
-          {
-            "name": "built",
-            "lang": "en"
-          },
-          {
-            "name": "construir",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "buy",
-            "lang": "en"
-          },
-          {
-            "name": "bought",
-            "lang": "en"
-          },
-          {
-            "name": "bought",
-            "lang": "en"
-          },
-          {
-            "name": "comprar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "catch",
-            "lang": "en"
-          },
-          {
-            "name": "caught",
-            "lang": "en"
-          },
-          {
-            "name": "caught",
-            "lang": "en"
-          },
-          {
-            "name": "atrapar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "choose",
-            "lang": "en"
-          },
-          {
-            "name": "chose",
-            "lang": "en"
-          },
-          {
-            "name": "chosen",
-            "lang": "en"
-          },
-          {
-            "name": "elegir",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "come",
-            "lang": "en"
-          },
-          {
-            "name": "came",
-            "lang": "en"
-          },
-          {
-            "name": "come",
-            "lang": "en"
-          },
-          {
-            "name": "venir",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "cost",
-            "lang": "en"
-          },
-          {
-            "name": "cost",
-            "lang": "en"
-          },
-          {
-            "name": "cost",
-            "lang": "en"
-          },
-          {
-            "name": "costar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "creep",
-            "lang": "en"
-          },
-          {
-            "name": "crept",
-            "lang": "en"
-          },
-          {
-            "name": "crept",
-            "lang": "en"
-          },
-          {
-            "name": "arrastrarse",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "cut",
-            "lang": "en"
-          },
-          {
-            "name": "cut",
-            "lang": "en"
-          },
-          {
-            "name": "cut",
-            "lang": "en"
-          },
-          {
-            "name": "cortar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "deal",
-            "lang": "en"
-          },
-          {
-            "name": "dealt",
-            "lang": "en"
-          },
-          {
-            "name": "dealt",
-            "lang": "en"
-          },
-          {
-            "name": "dar",
-            "lang": "es",
-            "name_1":"repartir",
-            "lang_1":"es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "do",
-            "lang": "en"
-          },
-          {
-            "name": "did",
-            "lang": "en"
-          },
-          {
-            "name": "done",
-            "lang": "en"
-          },
-          {
-            "name": "hacer",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "draw",
-            "lang": "en"
-          },
-          {
-            "name": "drew",
-            "lang": "en"
-          },
-          {
-            "name": "drawn",
-            "lang": "en"
-          },
-          {
-            "name": "dibujar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "dream",
-            "lang": "en"
-          },
-          {
-            "name": "dreamt",
-            "lang": "en",
-            "name_1": "dreamed",
-            "lang_1":"en"
-          },
-          {
-            "name": "dreamt",
-            "lang": "en",
-            "name_1": "dreamed",
-            "lang_1":"en"
-          },
-          {
-            "name": "soñar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "drink",
-            "lang": "en"
-          },
-          {
-            "name": "drank",
-            "lang": "en"
-          },
-          {
-            "name": "drunk",
-            "lang": "en"
-          },
-          {
-            "name": "beber",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "drive",
-            "lang": "en"
-          },
-          {
-            "name": "drove",
-            "lang": "en"
-          },
-          {
-            "name": "driven",
-            "lang": "en"
-          },
-          {
-            "name": "conducir",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "eat",
-            "lang": "en"
-          },
-          {
-            "name": "ate",
-            "lang": "en"
-          },
-          {
-            "name": "eaten",
-            "lang": "en"
-          },
-          {
-            "name": "comer",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "fall",
-            "lang": "en"
-          },
-          {
-            "name": "fell",
-            "lang": "en"
-          },
-          {
-            "name": "fallen",
-            "lang": "en"
-          },
-          {
-            "name": "caer",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "feed",
-            "lang": "en"
-          },
-          {
-            "name": "fed",
-            "lang": "en"
-          },
-          {
-            "name": "fed",
-            "lang": "en"
-          },
-          {
-            "name": "alimentar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "feel",
-            "lang": "en"
-          },
-          {
-            "name": "felt",
-            "lang": "en"
-          },
-          {
-            "name": "felt",
-            "lang": "en"
-          },
-          {
-            "name": "sentir",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "fight",
-            "lang": "en"
-          },
-          {
-            "name": "fought",
-            "lang": "en"
-          },
-          {
-            "name": "fought",
-            "lang": "en"
-          },
-          {
-            "name": "pelear",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "find",
-            "lang": "en"
-          },
-          {
-            "name": "found",
-            "lang": "en"
-          },
-          {
-            "name": "found",
-            "lang": "en"
-          },
-          {
-            "name": "encontrar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "flee",
-            "lang": "en"
-          },
-          {
-            "name": "fled",
-            "lang": "en"
-          },
-          {
-            "name": "fled",
-            "lang": "en"
-          },
-          {
-            "name": "huir",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "fly",
-            "lang": "en"
-          },
-          {
-            "name": "flew",
-            "lang": "en"
-          },
-          {
-            "name": "flown",
-            "lang": "en"
-          },
-          {
-            "name": "volar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "forget",
-            "lang": "en"
-          },
-          {
-            "name": "forgot",
-            "lang": "en"
-          },
-          {
-            "name": "forgotten",
-            "lang": "en"
-          },
-          {
-            "name": "olvidar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "forgive",
-            "lang": "en"
-          },
-          {
-            "name": "forgave",
-            "lang": "en"
-          },
-          {
-            "name": "forgiven",
-            "lang": "en"
-          },
-          {
-            "name": "perdonar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "forsake",
-            "lang": "en"
-          },
-          {
-            "name": "forsook",
-            "lang": "en"
-          },
-          {
-            "name": "forsaken",
-            "lang": "en"
-          },
-          {
-            "name": "abandonar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "freeze",
-            "lang": "en"
-          },
-          {
-            "name": "froze",
-            "lang": "en"
-          },
-          {
-            "name": "frozen",
-            "lang": "en"
-          },
-          {
-            "name": "congelar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "get",
-            "lang": "en"
-          },
-          {
-            "name": "got",
-            "lang": "en"
-          },
-          {
-            "name": "got",
-            "lang": "en"
-          },
-          {
-            "name": "tener",
-            "lang": "es",
-            "name_1":"obtener",
-            "lang_1": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "give",
-            "lang": "en"
-          },
-          {
-            "name": "gave",
-            "lang": "en"
-          },
-          {
-            "name": "given",
-            "lang": "en"
-          },
-          {
-            "name": "dar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "go",
-            "lang": "en"
-          },
-          {
-            "name": "went",
-            "lang": "en"
-          },
-          {
-            "name": "gone",
-            "lang": "en"
-          },
-          {
-            "name": "ir",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "grind",
-            "lang": "en"
-          },
-          {
-            "name": "ground",
-            "lang": "en"
-          },
-          {
-            "name": "ground",
-            "lang": "en"
-          },
-          {
-            "name": "moler",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "grow",
-            "lang": "en"
-          },
-          {
-            "name": "grew",
-            "lang": "en"
-          },
-          {
-            "name": "grown",
-            "lang": "en"
-          },
-          {
-            "name": "crecer",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "hang",
-            "lang": "en"
-          },
-          {
-            "name": "hung",
-            "lang": "en"
-          },
-          {
-            "name": "hung",
-            "lang": "en"
-          },
-          {
-            "name": "colgar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "have",
-            "lang": "en"
-          },
-          {
-            "name": "had",
-            "lang": "en"
-          },
-          {
-            "name": "had",
-            "lang": "en"
-          },
-          {
-            "name": "tener",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "hear",
-            "lang": "en"
-          },
-          {
-            "name": "heard",
-            "lang": "en"
-          },
-          {
-            "name": "heard",
-            "lang": "en"
-          },
-          {
-            "name": "oír",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "hide",
-            "lang": "en"
-          },
-          {
-            "name": "hid",
-            "lang": "en"
-          },
-          {
-            "name": "hidden",
-            "lang": "en"
-          },
-          {
-            "name": "esconderse",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "hit",
-            "lang": "en"
-          },
-          {
-            "name": "hit",
-            "lang": "en"
-          },
-          {
-            "name": "hit",
-            "lang": "en"
-          },
-          {
-            "name": "golpear",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "hold",
-            "lang": "en"
-          },
-          {
-            "name": "held",
-            "lang": "en"
-          },
-          {
-            "name": "held",
-            "lang": "en"
-          },
-          {
-            "name": "tener",
-            "lang": "es",
-            "name_1":"mantener",
-            "lang_1":"es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "hurt",
-            "lang": "en"
-          },
-          {
-            "name": "hurt",
-            "lang": "en"
-          },
-          {
-            "name": "hurt",
-            "lang": "en"
-          },
-          {
-            "name": "herir",
-            "lang": "es",
-            "name_1":"doler",
-            "lang_1":"es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "keep",
-            "lang": "en"
-          },
-          {
-            "name": "kept",
-            "lang": "en"
-          },
-          {
-            "name": "kept",
-            "lang": "en"
-          },
-          {
-            "name": "guardar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "kneel",
-            "lang": "en"
-          },
-          {
-            "name": "knelt",
-            "lang": "en"
-          },
-          {
-            "name": "knelt",
-            "lang": "en"
-          },
-          {
-            "name": "arrodillarse",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "know",
-            "lang": "en"
-          },
-          {
-            "name": "knew",
-            "lang": "en"
-          },
-          {
-            "name": "known",
-            "lang": "en"
-          },
-          {
-            "name": "saber",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "lead",
-            "lang": "en"
-          },
-          {
-            "name": "led",
-            "lang": "en"
-          },
-          {
-            "name": "led",
-            "lang": "en"
-          },
-          {
-            "name": "encabezar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "learn",
-            "lang": "en"
-          },
-          {
-            "name": "learnt",
-            "lang": "en",
-            "name_1": "learned",
-            "lang_1":"en"
-          },
-          {
-            "name": "learnt",
-            "lang": "en",
-            "name_1": "learned",
-            "lang_1":"en"
-          },
-          {
-            "name": "aprender",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "leave",
-            "lang": "en"
-          },
-          {
-            "name": "left",
-            "lang": "en"
-          },
-          {
-            "name": "left",
-            "lang": "en"
-          },
-          {
-            "name": "dejar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "lend",
-            "lang": "en"
-          },
-          {
-            "name": "lent",
-            "lang": "en"
-          },
-          {
-            "name": "lent",
-            "lang": "en"
-          },
-          {
-            "name": "prestar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "let",
-            "lang": "en"
-          },
-          {
-            "name": "let",
-            "lang": "en"
-          },
-          {
-            "name": "let",
-            "lang": "en"
-          },
-          {
-            "name": "dejar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "lie",
-            "lang": "en"
-          },
-          {
-            "name": "lay",
-            "lang": "en"
-          },
-          {
-            "name": "lain",
-            "lang": "en"
-          },
-          {
-            "name": "yacer",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "lose",
-            "lang": "en"
-          },
-          {
-            "name": "lost",
-            "lang": "en"
-          },
-          {
-            "name": "lost",
-            "lang": "en"
-          },
-          {
-            "name": "perder",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "make",
-            "lang": "en"
-          },
-          {
-            "name": "made",
-            "lang": "en"
-          },
-          {
-            "name": "made",
-            "lang": "en"
-          },
-          {
-            "name": "hacer",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "mean",
-            "lang": "en"
-          },
-          {
-            "name": "meant",
-            "lang": "en"
-          },
-          {
-            "name": "meant",
-            "lang": "en"
-          },
-          {
-            "name": "significar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "meet",
-            "lang": "en"
-          },
-          {
-            "name": "met",
-            "lang": "en"
-          },
-          {
-            "name": "met",
-            "lang": "en"
-          },
-          {
-            "name": "conocer",
-            "lang": "es",
-            "name_1":"encontrar",
-            "lang_1":"es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "pay",
-            "lang": "en"
-          },
-          {
-            "name": "paid",
-            "lang": "en"
-          },
-          {
-            "name": "paid",
-            "lang": "en"
-          },
-          {
-            "name": "pagar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "put",
-            "lang": "en"
-          },
-          {
-            "name": "put",
-            "lang": "en"
-          },
-          {
-            "name": "put",
-            "lang": "en"
-          },
-          {
-            "name": "poner",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "quit",
-            "lang": "en"
-          },
-          {
-            "name": "quit",
-            "lang": "en",
-            "name_1":"quitted",
-            "lang_1":"en"
-          },
-          {
-            "name": "quit",
-            "lang": "en",
-            "name_1":"quitted",
-            "lang_1":"en"
-          },
-          {
-            "name": "abandonar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "read",
-            "lang": "en"
-          },
-          {
-            "name": "read",
-            "lang": "en"
-          },
-          {
-            "name": "read",
-            "lang": "en"
-          },
-          {
-            "name": "leer",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "ride",
-            "lang": "en"
-          },
-          {
-            "name": "rode",
-            "lang": "en"
-          },
-          {
-            "name": "ridden",
-            "lang": "en"
-          },
-          {
-            "name": "montar",
-            "lang": "es",
-            "name_1":"ir",
-            "lang_1":"es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "ring",
-            "lang": "en"
-          },
-          {
-            "name": "rang",
-            "lang": "en"
-          },
-          {
-            "name": "rung",
-            "lang": "en"
-          },
-          {
-            "name": "llamar por teléfono",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "rise",
-            "lang": "en"
-          },
-          {
-            "name": "rose",
-            "lang": "en"
-          },
-          {
-            "name": "risen",
-            "lang": "en"
-          },
-          {
-            "name": "elevar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "run",
-            "lang": "en"
-          },
-          {
-            "name": "ran",
-            "lang": "en"
-          },
-          {
-            "name": "run",
-            "lang": "en"
-          },
-          {
-            "name": "correr",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "say",
-            "lang": "en"
-          },
-          {
-            "name": "said",
-            "lang": "en"
-          },
-          {
-            "name": "said",
-            "lang": "en"
-          },
-          {
-            "name": "decir",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "see",
-            "lang": "en"
-          },
-          {
-            "name": "saw",
-            "lang": "en"
-          },
-          {
-            "name": "seen",
-            "lang": "en"
-          },
-          {
-            "name": "ver",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "sell",
-            "lang": "en"
-          },
-          {
-            "name": "sold",
-            "lang": "en"
-          },
-          {
-            "name": "sold",
-            "lang": "en"
-          },
-          {
-            "name": "vender",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "send",
-            "lang": "en"
-          },
-          {
-            "name": "sent",
-            "lang": "en"
-          },
-          {
-            "name": "sent",
-            "lang": "en"
-          },
-          {
-            "name": "enviar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "set",
-            "lang": "en"
-          },
-          {
-            "name": "set",
-            "lang": "en"
-          },
-          {
-            "name": "set",
-            "lang": "en"
-          },
-          {
-            "name": "fijar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "sew",
-            "lang": "en"
-          },
-          {
-            "name": "sewed",
-            "lang": "en"
-          },
-          {
-            "name": "sewn",
-            "lang": "en",
-            "name_1":"sewed",
-            "lang_1":"en"
-          },
-          {
-            "name": "coser",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "shake",
-            "lang": "en"
-          },
-          {
-            "name": "shook",
-            "lang": "en"
-          },
-          {
-            "name": "shaken",
-            "lang": "en"
-          },
-          {
-            "name": "sacudir",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "shine",
-            "lang": "en"
-          },
-          {
-            "name": "shone",
-            "lang": "en"
-          },
-          {
-            "name": "shone",
-            "lang": "en"
-          },
-          {
-            "name": "brillar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "shoot",
-            "lang": "en"
-          },
-          {
-            "name": "shot",
-            "lang": "en"
-          },
-          {
-            "name": "shot",
-            "lang": "en"
-          },
-          {
-            "name": "disparar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "show",
-            "lang": "en"
-          },
-          {
-            "name": "showed",
-            "lang": "en"
-          },
-          {
-            "name": "shown",
-            "lang": "en",
-            "name_1":"showed",
-            "lang_1":"en"
-          },
-          {
-            "name": "mostrar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "shrink",
-            "lang": "en"
-          },
-          {
-            "name": "shrank",
-            "lang": "en",
-            "name_1":"shrunk",
-            "lang_1":"en"
-          },
-          {
-            "name": "shrunk",
-            "lang": "en"
-          },
-          {
-            "name": "encoger",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "shut",
-            "lang": "en"
-          },
-          {
-            "name": "shut",
-            "lang": "en"
-          },
-          {
-            "name": "shut",
-            "lang": "en"
-          },
-          {
-            "name": "cerrar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "sing",
-            "lang": "en"
-          },
-          {
-            "name": "sang",
-            "lang": "en"
-          },
-          {
-            "name": "sung",
-            "lang": "en"
-          },
-          {
-            "name": "cantar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "sink",
-            "lang": "en"
-          },
-          {
-            "name": "sank",
-            "lang": "en"
-          },
-          {
-            "name": "sunk",
-            "lang": "en"
-          },
-          {
-            "name": "hundir",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "sit",
-            "lang": "en"
-          },
-          {
-            "name": "sat",
-            "lang": "en"
-          },
-          {
-            "name": "sat",
-            "lang": "en"
-          },
-          {
-            "name": "sentarse",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "sleep",
-            "lang": "en"
-          },
-          {
-            "name": "slept",
-            "lang": "en"
-          },
-          {
-            "name": "slept",
-            "lang": "en"
-          },
-          {
-            "name": "dormir",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "slide",
-            "lang": "en"
-          },
-          {
-            "name": "slid",
-            "lang": "en"
-          },
-          {
-            "name": "slid",
-            "lang": "en"
-          },
-          {
-            "name": "deslizar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "sow",
-            "lang": "en"
-          },
-          {
-            "name": "sowed",
-            "lang": "en"
-          },
-          {
-            "name": "sown/sowed",
-            "lang": "en"
-          },
-          {
-            "name": "sembrar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "speak",
-            "lang": "en"
-          },
-          {
-            "name": "spoke",
-            "lang": "en"
-          },
-          {
-            "name": "spoken",
-            "lang": "en"
-          },
-          {
-            "name": "hablar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "spell",
-            "lang": "en"
-          },
-          {
-            "name": "spelt",
-            "lang": "en",
-            "name_1":"spelled",
-            "lang_1":"en"
-          },
-          {
-            "name": "spelt",
-            "lang": "en",
-            "name_1":"spelled",
-            "lang_1":"en"
-          },
-          {
-            "name": "deletrear",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "spend",
-            "lang": "en"
-          },
-          {
-            "name": "spent",
-            "lang": "en"
-          },
-          {
-            "name": "spent",
-            "lang": "en"
-          },
-          {
-            "name": "gastar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "spill",
-            "lang": "en"
-          },
-          {
-            "name": "spilt",
-            "lang": "en",
-            "name_1":"spilled",
-            "lang_1":"en"
-          },
-          {
-            "name": "spilt",
-            "lang": "en",
-            "name_1":"spilled",
-            "lang_1":"en"
-          },
-          {
-            "name": "derramar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "split",
-            "lang": "en"
-          },
-          {
-            "name": "split",
-            "lang": "en"
-          },
-          {
-            "name": "split",
-            "lang": "en"
-          },
-          {
-            "name": "partir",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "spoil",
-            "lang": "en"
-          },
-          {
-            "name": "spoilt",
-            "lang": "en",
-            "name_1":"spoiled",
-            "lang_1":"en"
-          },
-          {
-            "name": "spoilt",
-            "lang": "en",
-            "name_1":"spoiled",
-            "lang_1":"en"
-          },
-          {
-            "name": "estropear",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "spread",
-            "lang": "en"
-          },
-          {
-            "name": "spread",
-            "lang": "en"
-          },
-          {
-            "name": "spread",
-            "lang": "en"
-          },
-          {
-            "name": "extenderse",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "stand",
-            "lang": "en"
-          },
-          {
-            "name": "stood",
-            "lang": "en"
-          },
-          {
-            "name": "stood",
-            "lang": "en"
-          },
-          {
-            "name": "estar de pie",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "steal",
-            "lang": "en"
-          },
-          {
-            "name": "stole",
-            "lang": "en"
-          },
-          {
-            "name": "stolen",
-            "lang": "en"
-          },
-          {
-            "name": "robar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "sting",
-            "lang": "en"
-          },
-          {
-            "name": "stung",
-            "lang": "en"
-          },
-          {
-            "name": "stung",
-            "lang": "en"
-          },
-          {
-            "name": "picar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "stink",
-            "lang": "en"
-          },
-          {
-            "name": "stank/stunk",
-            "lang": "en"
-          },
-          {
-            "name": "stunk",
-            "lang": "en"
-          },
-          {
-            "name": "apestar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "strike",
-            "lang": "en"
-          },
-          {
-            "name": "struck",
-            "lang": "en"
-          },
-          {
-            "name": "struck",
-            "lang": "en"
-          },
-          {
-            "name": "golpear",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "swear",
-            "lang": "en"
-          },
-          {
-            "name": "swore",
-            "lang": "en"
-          },
-          {
-            "name": "sworn",
-            "lang": "en"
-          },
-          {
-            "name": "jurar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "sweep",
-            "lang": "en"
-          },
-          {
-            "name": "swept",
-            "lang": "en"
-          },
-          {
-            "name": "swept",
-            "lang": "en"
-          },
-          {
-            "name": "barrer",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "swim",
-            "lang": "en"
-          },
-          {
-            "name": "swam",
-            "lang": "en"
-          },
-          {
-            "name": "swum",
-            "lang": "en"
-          },
-          {
-            "name": "nadar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "take",
-            "lang": "en"
-          },
-          {
-            "name": "took",
-            "lang": "en"
-          },
-          {
-            "name": "taken",
-            "lang": "en"
-          },
-          {
-            "name": "tomar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "teach",
-            "lang": "en"
-          },
-          {
-            "name": "taught",
-            "lang": "en"
-          },
-          {
-            "name": "taught",
-            "lang": "en"
-          },
-          {
-            "name": "enseñar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "tear",
-            "lang": "en"
-          },
-          {
-            "name": "tore",
-            "lang": "en"
-          },
-          {
-            "name": "torn",
-            "lang": "en"
-          },
-          {
-            "name": "romper",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "tell",
-            "lang": "en"
-          },
-          {
-            "name": "told",
-            "lang": "en"
-          },
-          {
-            "name": "told",
-            "lang": "en"
-          },
-          {
-            "name": "decir",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "think",
-            "lang": "en"
-          },
-          {
-            "name": "thought",
-            "lang": "en"
-          },
-          {
-            "name": "thought",
-            "lang": "en"
-          },
-          {
-            "name": "pensar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "throw",
-            "lang": "en"
-          },
-          {
-            "name": "threw",
-            "lang": "en"
-          },
-          {
-            "name": "thrown",
-            "lang": "en"
-          },
-          {
-            "name": "lanzar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "tread",
-            "lang": "en"
-          },
-          {
-            "name": "trode",
-            "lang": "en"
-          },
-          {
-            "name": "trodden",
-            "lang": "en",
-            "name_1":"trod",
-            "lang_1":"en"
-          },
-          {
-            "name": "pisar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "understand",
-            "lang": "en"
-          },
-          {
-            "name": "understood",
-            "lang": "en"
-          },
-          {
-            "name": "understood",
-            "lang": "en"
-          },
-          {
-            "name": "entender",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "wake",
-            "lang": "en"
-          },
-          {
-            "name": "woke",
-            "lang": "en"
-          },
-          {
-            "name": "woken",
-            "lang": "en"
-          },
-          {
-            "name": "despertarse",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "wear",
-            "lang": "en"
-          },
-          {
-            "name": "wore",
-            "lang": "en"
-          },
-          {
-            "name": "worn",
-            "lang": "en"
-          },
-          {
-            "name": "llevar puesto",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "weave",
-            "lang": "en"
-          },
-          {
-            "name": "wove",
-            "lang": "en"
-          },
-          {
-            "name": "woven",
-            "lang": "en"
-          },
-          {
-            "name": "tejer",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "weep",
-            "lang": "en"
-          },
-          {
-            "name": "wept",
-            "lang": "en"
-          },
-          {
-            "name": "wept",
-            "lang": "en"
-          },
-          {
-            "name": "llorar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "win",
-            "lang": "en"
-          },
-          {
-            "name": "won",
-            "lang": "en"
-          },
-          {
-            "name": "won",
-            "lang": "en"
-          },
-          {
-            "name": "ganar",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "wring",
-            "lang": "en"
-          },
-          {
-            "name": "wrung",
-            "lang": "en"
-          },
-          {
-            "name": "wrung",
-            "lang": "en"
-          },
-          {
-            "name": "retorcer",
-            "lang": "es"
-          }
-        ]
-      },
-      {
-        "td": [
-          {
-            "name": "write",
-            "lang": "en"
-          },
-          {
-            "name": "wrote",
-            "lang": "en"
-          },
-          {
-            "name": "written",
-            "lang": "en"
-          },
-          {
-            "name": "escribir",
-            "lang": "es"
-          }
-        ]
-      }
-    ]
+    "table": {
+      "theads": ["Infinite", "Simple Past", "Past Participle", "Spanish"],
+      "tdata": [
+        {
+          "td": [
+            {
+              "name": "arise",
+              "lang": "en"
+            },
+            {
+              "name": "arose",
+              "lang": "en"
+            },
+            {
+              "name": "arisen",
+              "lang": "en"
+            },
+            {
+              "name": "surgir",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "be",
+              "lang": "en"
+            },
+            {
+              "name": "was",
+              "lang": "en",
+              "name_1": "were",
+              "lang_1": "en"
+            },
+            {
+              "name": "been",
+              "lang": "en"
+            },
+            {
+              "name": "ser",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "beat",
+              "lang": "en"
+            },
+            {
+              "name": "beat",
+              "lang": "en"
+            },
+            {
+              "name": "beaten",
+              "lang": "en"
+            },
+            {
+              "name": "golpear",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "become",
+              "lang": "en"
+            },
+            {
+              "name": "became",
+              "lang": "en"
+            },
+            {
+              "name": "become",
+              "lang": "en"
+            },
+            {
+              "name": "convertirse",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "\nbegin",
+              "lang": "en"
+            },
+            {
+              "name": "began",
+              "lang": "en"
+            },
+            {
+              "name": "begun",
+              "lang": "en"
+            },
+            {
+              "name": "\ncomenzar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "bet",
+              "lang": "en"
+            },
+            {
+              "name": "bet",
+              "lang": "en",
+              "name_1": "betted",
+              "lang_1": "en"
+            },
+            {
+              "name": "bet",
+              "lang": "en",
+              "name_1": "betted",
+              "lang_1": "en"
+            },
+            {
+              "name": "apostar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "bite",
+              "lang": "en"
+            },
+            {
+              "name": "bit",
+              "lang": "en"
+            },
+            {
+              "name": "bitten",
+              "lang": "en"
+            },
+            {
+              "name": "morder",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "bleed",
+              "lang": "en"
+            },
+            {
+              "name": "bled",
+              "lang": "en"
+            },
+            {
+              "name": "bled",
+              "lang": "en"
+            },
+            {
+              "name": "sangrar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "blow",
+              "lang": "en"
+            },
+            {
+              "name": "blew",
+              "lang": "en"
+            },
+            {
+              "name": "blown",
+              "lang": "en"
+            },
+            {
+              "name": "soplar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "break",
+              "lang": "en"
+            },
+            {
+              "name": "broke",
+              "lang": "en"
+            },
+            {
+              "name": "broken",
+              "lang": "en"
+            },
+            {
+              "name": "romper",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "bring",
+              "lang": "en"
+            },
+            {
+              "name": "brought",
+              "lang": "en"
+            },
+            {
+              "name": "brought",
+              "lang": "en"
+            },
+            {
+              "name": "traer",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "build",
+              "lang": "en"
+            },
+            {
+              "name": "built",
+              "lang": "en"
+            },
+            {
+              "name": "built",
+              "lang": "en"
+            },
+            {
+              "name": "construir",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "buy",
+              "lang": "en"
+            },
+            {
+              "name": "bought",
+              "lang": "en"
+            },
+            {
+              "name": "bought",
+              "lang": "en"
+            },
+            {
+              "name": "comprar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "catch",
+              "lang": "en"
+            },
+            {
+              "name": "caught",
+              "lang": "en"
+            },
+            {
+              "name": "caught",
+              "lang": "en"
+            },
+            {
+              "name": "atrapar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "choose",
+              "lang": "en"
+            },
+            {
+              "name": "chose",
+              "lang": "en"
+            },
+            {
+              "name": "chosen",
+              "lang": "en"
+            },
+            {
+              "name": "elegir",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "come",
+              "lang": "en"
+            },
+            {
+              "name": "came",
+              "lang": "en"
+            },
+            {
+              "name": "come",
+              "lang": "en"
+            },
+            {
+              "name": "venir",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "cost",
+              "lang": "en"
+            },
+            {
+              "name": "cost",
+              "lang": "en"
+            },
+            {
+              "name": "cost",
+              "lang": "en"
+            },
+            {
+              "name": "costar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "creep",
+              "lang": "en"
+            },
+            {
+              "name": "crept",
+              "lang": "en"
+            },
+            {
+              "name": "crept",
+              "lang": "en"
+            },
+            {
+              "name": "arrastrarse",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "cut",
+              "lang": "en"
+            },
+            {
+              "name": "cut",
+              "lang": "en"
+            },
+            {
+              "name": "cut",
+              "lang": "en"
+            },
+            {
+              "name": "cortar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "deal",
+              "lang": "en"
+            },
+            {
+              "name": "dealt",
+              "lang": "en"
+            },
+            {
+              "name": "dealt",
+              "lang": "en"
+            },
+            {
+              "name": "dar",
+              "lang": "es",
+              "name_1": "repartir",
+              "lang_1": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "do",
+              "lang": "en"
+            },
+            {
+              "name": "did",
+              "lang": "en"
+            },
+            {
+              "name": "done",
+              "lang": "en"
+            },
+            {
+              "name": "hacer",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "draw",
+              "lang": "en"
+            },
+            {
+              "name": "drew",
+              "lang": "en"
+            },
+            {
+              "name": "drawn",
+              "lang": "en"
+            },
+            {
+              "name": "dibujar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "dream",
+              "lang": "en"
+            },
+            {
+              "name": "dreamt",
+              "lang": "en",
+              "name_1": "dreamed",
+              "lang_1": "en"
+            },
+            {
+              "name": "dreamt",
+              "lang": "en",
+              "name_1": "dreamed",
+              "lang_1": "en"
+            },
+            {
+              "name": "soñar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "drink",
+              "lang": "en"
+            },
+            {
+              "name": "drank",
+              "lang": "en"
+            },
+            {
+              "name": "drunk",
+              "lang": "en"
+            },
+            {
+              "name": "beber",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "drive",
+              "lang": "en"
+            },
+            {
+              "name": "drove",
+              "lang": "en"
+            },
+            {
+              "name": "driven",
+              "lang": "en"
+            },
+            {
+              "name": "conducir",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "eat",
+              "lang": "en"
+            },
+            {
+              "name": "ate",
+              "lang": "en"
+            },
+            {
+              "name": "eaten",
+              "lang": "en"
+            },
+            {
+              "name": "comer",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "fall",
+              "lang": "en"
+            },
+            {
+              "name": "fell",
+              "lang": "en"
+            },
+            {
+              "name": "fallen",
+              "lang": "en"
+            },
+            {
+              "name": "caer",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "feed",
+              "lang": "en"
+            },
+            {
+              "name": "fed",
+              "lang": "en"
+            },
+            {
+              "name": "fed",
+              "lang": "en"
+            },
+            {
+              "name": "alimentar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "feel",
+              "lang": "en"
+            },
+            {
+              "name": "felt",
+              "lang": "en"
+            },
+            {
+              "name": "felt",
+              "lang": "en"
+            },
+            {
+              "name": "sentir",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "fight",
+              "lang": "en"
+            },
+            {
+              "name": "fought",
+              "lang": "en"
+            },
+            {
+              "name": "fought",
+              "lang": "en"
+            },
+            {
+              "name": "pelear",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "find",
+              "lang": "en"
+            },
+            {
+              "name": "found",
+              "lang": "en"
+            },
+            {
+              "name": "found",
+              "lang": "en"
+            },
+            {
+              "name": "encontrar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "flee",
+              "lang": "en"
+            },
+            {
+              "name": "fled",
+              "lang": "en"
+            },
+            {
+              "name": "fled",
+              "lang": "en"
+            },
+            {
+              "name": "huir",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "fly",
+              "lang": "en"
+            },
+            {
+              "name": "flew",
+              "lang": "en"
+            },
+            {
+              "name": "flown",
+              "lang": "en"
+            },
+            {
+              "name": "volar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "forget",
+              "lang": "en"
+            },
+            {
+              "name": "forgot",
+              "lang": "en"
+            },
+            {
+              "name": "forgotten",
+              "lang": "en"
+            },
+            {
+              "name": "olvidar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "forgive",
+              "lang": "en"
+            },
+            {
+              "name": "forgave",
+              "lang": "en"
+            },
+            {
+              "name": "forgiven",
+              "lang": "en"
+            },
+            {
+              "name": "perdonar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "forsake",
+              "lang": "en"
+            },
+            {
+              "name": "forsook",
+              "lang": "en"
+            },
+            {
+              "name": "forsaken",
+              "lang": "en"
+            },
+            {
+              "name": "abandonar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "freeze",
+              "lang": "en"
+            },
+            {
+              "name": "froze",
+              "lang": "en"
+            },
+            {
+              "name": "frozen",
+              "lang": "en"
+            },
+            {
+              "name": "congelar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "get",
+              "lang": "en"
+            },
+            {
+              "name": "got",
+              "lang": "en"
+            },
+            {
+              "name": "got",
+              "lang": "en"
+            },
+            {
+              "name": "tener",
+              "lang": "es",
+              "name_1": "obtener",
+              "lang_1": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "give",
+              "lang": "en"
+            },
+            {
+              "name": "gave",
+              "lang": "en"
+            },
+            {
+              "name": "given",
+              "lang": "en"
+            },
+            {
+              "name": "dar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "go",
+              "lang": "en"
+            },
+            {
+              "name": "went",
+              "lang": "en"
+            },
+            {
+              "name": "gone",
+              "lang": "en"
+            },
+            {
+              "name": "ir",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "grind",
+              "lang": "en"
+            },
+            {
+              "name": "ground",
+              "lang": "en"
+            },
+            {
+              "name": "ground",
+              "lang": "en"
+            },
+            {
+              "name": "moler",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "grow",
+              "lang": "en"
+            },
+            {
+              "name": "grew",
+              "lang": "en"
+            },
+            {
+              "name": "grown",
+              "lang": "en"
+            },
+            {
+              "name": "crecer",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "hang",
+              "lang": "en"
+            },
+            {
+              "name": "hung",
+              "lang": "en"
+            },
+            {
+              "name": "hung",
+              "lang": "en"
+            },
+            {
+              "name": "colgar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "have",
+              "lang": "en"
+            },
+            {
+              "name": "had",
+              "lang": "en"
+            },
+            {
+              "name": "had",
+              "lang": "en"
+            },
+            {
+              "name": "tener",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "hear",
+              "lang": "en"
+            },
+            {
+              "name": "heard",
+              "lang": "en"
+            },
+            {
+              "name": "heard",
+              "lang": "en"
+            },
+            {
+              "name": "oír",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "hide",
+              "lang": "en"
+            },
+            {
+              "name": "hid",
+              "lang": "en"
+            },
+            {
+              "name": "hidden",
+              "lang": "en"
+            },
+            {
+              "name": "esconderse",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "hit",
+              "lang": "en"
+            },
+            {
+              "name": "hit",
+              "lang": "en"
+            },
+            {
+              "name": "hit",
+              "lang": "en"
+            },
+            {
+              "name": "golpear",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "hold",
+              "lang": "en"
+            },
+            {
+              "name": "held",
+              "lang": "en"
+            },
+            {
+              "name": "held",
+              "lang": "en"
+            },
+            {
+              "name": "tener",
+              "lang": "es",
+              "name_1": "mantener",
+              "lang_1": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "hurt",
+              "lang": "en"
+            },
+            {
+              "name": "hurt",
+              "lang": "en"
+            },
+            {
+              "name": "hurt",
+              "lang": "en"
+            },
+            {
+              "name": "herir",
+              "lang": "es",
+              "name_1": "doler",
+              "lang_1": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "keep",
+              "lang": "en"
+            },
+            {
+              "name": "kept",
+              "lang": "en"
+            },
+            {
+              "name": "kept",
+              "lang": "en"
+            },
+            {
+              "name": "guardar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "kneel",
+              "lang": "en"
+            },
+            {
+              "name": "knelt",
+              "lang": "en"
+            },
+            {
+              "name": "knelt",
+              "lang": "en"
+            },
+            {
+              "name": "arrodillarse",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "know",
+              "lang": "en"
+            },
+            {
+              "name": "knew",
+              "lang": "en"
+            },
+            {
+              "name": "known",
+              "lang": "en"
+            },
+            {
+              "name": "saber",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "lead",
+              "lang": "en"
+            },
+            {
+              "name": "led",
+              "lang": "en"
+            },
+            {
+              "name": "led",
+              "lang": "en"
+            },
+            {
+              "name": "encabezar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "learn",
+              "lang": "en"
+            },
+            {
+              "name": "learnt",
+              "lang": "en",
+              "name_1": "learned",
+              "lang_1": "en"
+            },
+            {
+              "name": "learnt",
+              "lang": "en",
+              "name_1": "learned",
+              "lang_1": "en"
+            },
+            {
+              "name": "aprender",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "leave",
+              "lang": "en"
+            },
+            {
+              "name": "left",
+              "lang": "en"
+            },
+            {
+              "name": "left",
+              "lang": "en"
+            },
+            {
+              "name": "dejar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "lend",
+              "lang": "en"
+            },
+            {
+              "name": "lent",
+              "lang": "en"
+            },
+            {
+              "name": "lent",
+              "lang": "en"
+            },
+            {
+              "name": "prestar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "let",
+              "lang": "en"
+            },
+            {
+              "name": "let",
+              "lang": "en"
+            },
+            {
+              "name": "let",
+              "lang": "en"
+            },
+            {
+              "name": "dejar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "lie",
+              "lang": "en"
+            },
+            {
+              "name": "lay",
+              "lang": "en"
+            },
+            {
+              "name": "lain",
+              "lang": "en"
+            },
+            {
+              "name": "yacer",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "lose",
+              "lang": "en"
+            },
+            {
+              "name": "lost",
+              "lang": "en"
+            },
+            {
+              "name": "lost",
+              "lang": "en"
+            },
+            {
+              "name": "perder",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "make",
+              "lang": "en"
+            },
+            {
+              "name": "made",
+              "lang": "en"
+            },
+            {
+              "name": "made",
+              "lang": "en"
+            },
+            {
+              "name": "hacer",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "mean",
+              "lang": "en"
+            },
+            {
+              "name": "meant",
+              "lang": "en"
+            },
+            {
+              "name": "meant",
+              "lang": "en"
+            },
+            {
+              "name": "significar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "meet",
+              "lang": "en"
+            },
+            {
+              "name": "met",
+              "lang": "en"
+            },
+            {
+              "name": "met",
+              "lang": "en"
+            },
+            {
+              "name": "conocer",
+              "lang": "es",
+              "name_1": "encontrar",
+              "lang_1": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "pay",
+              "lang": "en"
+            },
+            {
+              "name": "paid",
+              "lang": "en"
+            },
+            {
+              "name": "paid",
+              "lang": "en"
+            },
+            {
+              "name": "pagar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "put",
+              "lang": "en"
+            },
+            {
+              "name": "put",
+              "lang": "en"
+            },
+            {
+              "name": "put",
+              "lang": "en"
+            },
+            {
+              "name": "poner",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "quit",
+              "lang": "en"
+            },
+            {
+              "name": "quit",
+              "lang": "en",
+              "name_1": "quitted",
+              "lang_1": "en"
+            },
+            {
+              "name": "quit",
+              "lang": "en",
+              "name_1": "quitted",
+              "lang_1": "en"
+            },
+            {
+              "name": "abandonar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "read",
+              "lang": "en"
+            },
+            {
+              "name": "read",
+              "lang": "en"
+            },
+            {
+              "name": "read",
+              "lang": "en"
+            },
+            {
+              "name": "leer",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "ride",
+              "lang": "en"
+            },
+            {
+              "name": "rode",
+              "lang": "en"
+            },
+            {
+              "name": "ridden",
+              "lang": "en"
+            },
+            {
+              "name": "montar",
+              "lang": "es",
+              "name_1": "ir",
+              "lang_1": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "ring",
+              "lang": "en"
+            },
+            {
+              "name": "rang",
+              "lang": "en"
+            },
+            {
+              "name": "rung",
+              "lang": "en"
+            },
+            {
+              "name": "llamar por teléfono",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "rise",
+              "lang": "en"
+            },
+            {
+              "name": "rose",
+              "lang": "en"
+            },
+            {
+              "name": "risen",
+              "lang": "en"
+            },
+            {
+              "name": "elevar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "run",
+              "lang": "en"
+            },
+            {
+              "name": "ran",
+              "lang": "en"
+            },
+            {
+              "name": "run",
+              "lang": "en"
+            },
+            {
+              "name": "correr",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "say",
+              "lang": "en"
+            },
+            {
+              "name": "said",
+              "lang": "en"
+            },
+            {
+              "name": "said",
+              "lang": "en"
+            },
+            {
+              "name": "decir",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "see",
+              "lang": "en"
+            },
+            {
+              "name": "saw",
+              "lang": "en"
+            },
+            {
+              "name": "seen",
+              "lang": "en"
+            },
+            {
+              "name": "ver",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "sell",
+              "lang": "en"
+            },
+            {
+              "name": "sold",
+              "lang": "en"
+            },
+            {
+              "name": "sold",
+              "lang": "en"
+            },
+            {
+              "name": "vender",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "send",
+              "lang": "en"
+            },
+            {
+              "name": "sent",
+              "lang": "en"
+            },
+            {
+              "name": "sent",
+              "lang": "en"
+            },
+            {
+              "name": "enviar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "set",
+              "lang": "en"
+            },
+            {
+              "name": "set",
+              "lang": "en"
+            },
+            {
+              "name": "set",
+              "lang": "en"
+            },
+            {
+              "name": "fijar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "sew",
+              "lang": "en"
+            },
+            {
+              "name": "sewed",
+              "lang": "en"
+            },
+            {
+              "name": "sewn",
+              "lang": "en",
+              "name_1": "sewed",
+              "lang_1": "en"
+            },
+            {
+              "name": "coser",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "shake",
+              "lang": "en"
+            },
+            {
+              "name": "shook",
+              "lang": "en"
+            },
+            {
+              "name": "shaken",
+              "lang": "en"
+            },
+            {
+              "name": "sacudir",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "shine",
+              "lang": "en"
+            },
+            {
+              "name": "shone",
+              "lang": "en"
+            },
+            {
+              "name": "shone",
+              "lang": "en"
+            },
+            {
+              "name": "brillar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "shoot",
+              "lang": "en"
+            },
+            {
+              "name": "shot",
+              "lang": "en"
+            },
+            {
+              "name": "shot",
+              "lang": "en"
+            },
+            {
+              "name": "disparar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "show",
+              "lang": "en"
+            },
+            {
+              "name": "showed",
+              "lang": "en"
+            },
+            {
+              "name": "shown",
+              "lang": "en",
+              "name_1": "showed",
+              "lang_1": "en"
+            },
+            {
+              "name": "mostrar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "shrink",
+              "lang": "en"
+            },
+            {
+              "name": "shrank",
+              "lang": "en",
+              "name_1": "shrunk",
+              "lang_1": "en"
+            },
+            {
+              "name": "shrunk",
+              "lang": "en"
+            },
+            {
+              "name": "encoger",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "shut",
+              "lang": "en"
+            },
+            {
+              "name": "shut",
+              "lang": "en"
+            },
+            {
+              "name": "shut",
+              "lang": "en"
+            },
+            {
+              "name": "cerrar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "sing",
+              "lang": "en"
+            },
+            {
+              "name": "sang",
+              "lang": "en"
+            },
+            {
+              "name": "sung",
+              "lang": "en"
+            },
+            {
+              "name": "cantar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "sink",
+              "lang": "en"
+            },
+            {
+              "name": "sank",
+              "lang": "en"
+            },
+            {
+              "name": "sunk",
+              "lang": "en"
+            },
+            {
+              "name": "hundir",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "sit",
+              "lang": "en"
+            },
+            {
+              "name": "sat",
+              "lang": "en"
+            },
+            {
+              "name": "sat",
+              "lang": "en"
+            },
+            {
+              "name": "sentarse",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "sleep",
+              "lang": "en"
+            },
+            {
+              "name": "slept",
+              "lang": "en"
+            },
+            {
+              "name": "slept",
+              "lang": "en"
+            },
+            {
+              "name": "dormir",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "slide",
+              "lang": "en"
+            },
+            {
+              "name": "slid",
+              "lang": "en"
+            },
+            {
+              "name": "slid",
+              "lang": "en"
+            },
+            {
+              "name": "deslizar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "sow",
+              "lang": "en"
+            },
+            {
+              "name": "sowed",
+              "lang": "en"
+            },
+            {
+              "name": "sown/sowed",
+              "lang": "en"
+            },
+            {
+              "name": "sembrar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "speak",
+              "lang": "en"
+            },
+            {
+              "name": "spoke",
+              "lang": "en"
+            },
+            {
+              "name": "spoken",
+              "lang": "en"
+            },
+            {
+              "name": "hablar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "spell",
+              "lang": "en"
+            },
+            {
+              "name": "spelt",
+              "lang": "en",
+              "name_1": "spelled",
+              "lang_1": "en"
+            },
+            {
+              "name": "spelt",
+              "lang": "en",
+              "name_1": "spelled",
+              "lang_1": "en"
+            },
+            {
+              "name": "deletrear",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "spend",
+              "lang": "en"
+            },
+            {
+              "name": "spent",
+              "lang": "en"
+            },
+            {
+              "name": "spent",
+              "lang": "en"
+            },
+            {
+              "name": "gastar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "spill",
+              "lang": "en"
+            },
+            {
+              "name": "spilt",
+              "lang": "en",
+              "name_1": "spilled",
+              "lang_1": "en"
+            },
+            {
+              "name": "spilt",
+              "lang": "en",
+              "name_1": "spilled",
+              "lang_1": "en"
+            },
+            {
+              "name": "derramar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "split",
+              "lang": "en"
+            },
+            {
+              "name": "split",
+              "lang": "en"
+            },
+            {
+              "name": "split",
+              "lang": "en"
+            },
+            {
+              "name": "partir",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "spoil",
+              "lang": "en"
+            },
+            {
+              "name": "spoilt",
+              "lang": "en",
+              "name_1": "spoiled",
+              "lang_1": "en"
+            },
+            {
+              "name": "spoilt",
+              "lang": "en",
+              "name_1": "spoiled",
+              "lang_1": "en"
+            },
+            {
+              "name": "estropear",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "spread",
+              "lang": "en"
+            },
+            {
+              "name": "spread",
+              "lang": "en"
+            },
+            {
+              "name": "spread",
+              "lang": "en"
+            },
+            {
+              "name": "extenderse",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "stand",
+              "lang": "en"
+            },
+            {
+              "name": "stood",
+              "lang": "en"
+            },
+            {
+              "name": "stood",
+              "lang": "en"
+            },
+            {
+              "name": "estar de pie",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "steal",
+              "lang": "en"
+            },
+            {
+              "name": "stole",
+              "lang": "en"
+            },
+            {
+              "name": "stolen",
+              "lang": "en"
+            },
+            {
+              "name": "robar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "sting",
+              "lang": "en"
+            },
+            {
+              "name": "stung",
+              "lang": "en"
+            },
+            {
+              "name": "stung",
+              "lang": "en"
+            },
+            {
+              "name": "picar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "stink",
+              "lang": "en"
+            },
+            {
+              "name": "stank/stunk",
+              "lang": "en"
+            },
+            {
+              "name": "stunk",
+              "lang": "en"
+            },
+            {
+              "name": "apestar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "strike",
+              "lang": "en"
+            },
+            {
+              "name": "struck",
+              "lang": "en"
+            },
+            {
+              "name": "struck",
+              "lang": "en"
+            },
+            {
+              "name": "golpear",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "swear",
+              "lang": "en"
+            },
+            {
+              "name": "swore",
+              "lang": "en"
+            },
+            {
+              "name": "sworn",
+              "lang": "en"
+            },
+            {
+              "name": "jurar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "sweep",
+              "lang": "en"
+            },
+            {
+              "name": "swept",
+              "lang": "en"
+            },
+            {
+              "name": "swept",
+              "lang": "en"
+            },
+            {
+              "name": "barrer",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "swim",
+              "lang": "en"
+            },
+            {
+              "name": "swam",
+              "lang": "en"
+            },
+            {
+              "name": "swum",
+              "lang": "en"
+            },
+            {
+              "name": "nadar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "take",
+              "lang": "en"
+            },
+            {
+              "name": "took",
+              "lang": "en"
+            },
+            {
+              "name": "taken",
+              "lang": "en"
+            },
+            {
+              "name": "tomar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "teach",
+              "lang": "en"
+            },
+            {
+              "name": "taught",
+              "lang": "en"
+            },
+            {
+              "name": "taught",
+              "lang": "en"
+            },
+            {
+              "name": "enseñar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "tear",
+              "lang": "en"
+            },
+            {
+              "name": "tore",
+              "lang": "en"
+            },
+            {
+              "name": "torn",
+              "lang": "en"
+            },
+            {
+              "name": "romper",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "tell",
+              "lang": "en"
+            },
+            {
+              "name": "told",
+              "lang": "en"
+            },
+            {
+              "name": "told",
+              "lang": "en"
+            },
+            {
+              "name": "decir",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "think",
+              "lang": "en"
+            },
+            {
+              "name": "thought",
+              "lang": "en"
+            },
+            {
+              "name": "thought",
+              "lang": "en"
+            },
+            {
+              "name": "pensar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "throw",
+              "lang": "en"
+            },
+            {
+              "name": "threw",
+              "lang": "en"
+            },
+            {
+              "name": "thrown",
+              "lang": "en"
+            },
+            {
+              "name": "lanzar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "tread",
+              "lang": "en"
+            },
+            {
+              "name": "trode",
+              "lang": "en"
+            },
+            {
+              "name": "trodden",
+              "lang": "en",
+              "name_1": "trod",
+              "lang_1": "en"
+            },
+            {
+              "name": "pisar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "understand",
+              "lang": "en"
+            },
+            {
+              "name": "understood",
+              "lang": "en"
+            },
+            {
+              "name": "understood",
+              "lang": "en"
+            },
+            {
+              "name": "entender",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "wake",
+              "lang": "en"
+            },
+            {
+              "name": "woke",
+              "lang": "en"
+            },
+            {
+              "name": "woken",
+              "lang": "en"
+            },
+            {
+              "name": "despertarse",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "wear",
+              "lang": "en"
+            },
+            {
+              "name": "wore",
+              "lang": "en"
+            },
+            {
+              "name": "worn",
+              "lang": "en"
+            },
+            {
+              "name": "llevar puesto",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "weave",
+              "lang": "en"
+            },
+            {
+              "name": "wove",
+              "lang": "en"
+            },
+            {
+              "name": "woven",
+              "lang": "en"
+            },
+            {
+              "name": "tejer",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "weep",
+              "lang": "en"
+            },
+            {
+              "name": "wept",
+              "lang": "en"
+            },
+            {
+              "name": "wept",
+              "lang": "en"
+            },
+            {
+              "name": "llorar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "win",
+              "lang": "en"
+            },
+            {
+              "name": "won",
+              "lang": "en"
+            },
+            {
+              "name": "won",
+              "lang": "en"
+            },
+            {
+              "name": "ganar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "wring",
+              "lang": "en"
+            },
+            {
+              "name": "wrung",
+              "lang": "en"
+            },
+            {
+              "name": "wrung",
+              "lang": "en"
+            },
+            {
+              "name": "retorcer",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "write",
+              "lang": "en"
+            },
+            {
+              "name": "wrote",
+              "lang": "en"
+            },
+            {
+              "name": "written",
+              "lang": "en"
+            },
+            {
+              "name": "escribir",
+              "lang": "es"
+            }
+          ]
+        }
+      ]
+    }
   }
 }

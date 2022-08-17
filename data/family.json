@@ -1,22 +1,343 @@
 {
-    "name": "Family",
-    "data": {
-        "cards" : [
-            {
-                "name": "father",
-                "image_url": null,
-                "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/c/cdo/cdo03/cdo0318usfath1774"
-              },
-              {
-                "name": "mother",
-                "image_url": null,
-                "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/m/mot/mothe/mother"
-              },
-              {
-                "name": "sister",
-                "image_url": null,
-                "audio_url": "https://dictionary.cambridge.org/es/media/ingles/us_pron/s/sis/siste/sister"
-              }
-        ]
-    }
+  "name": "Family",
+  "data": {
+    "cards": [
+      {
+        "name": "husband",
+        "image_url": "https://media.istockphoto.com/photos/couple-are-quarreling-at-home-picture-id1329543631?b=1&k=20&m=1329543631&s=170667a&w=0&h=tRCmcdf_-3e9f0558xcOw6Vva1ACDxdZvHWuXJ498kM=",
+        "name_es": "esposo",
+        "id": 1
+      },
+      {
+        "name": "mother",
+        "image_url": "https://media.istockphoto.com/photos/mother-kissing-with-her-baby-boy-in-her-arms-picture-id1369926465?b=1&k=20&m=1369926465&s=170667a&w=0&h=bvcA3eFC7chSHlq5buWbdga8J4JvyANccT1fKpJPUKI=",
+        "name_es": "madre",
+        "id": 2
+      },
+      {
+        "name": "mother in law",
+        "image_url": "https://media.istockphoto.com/photos/senior-asian-mother-receiving-a-present-from-her-daughter-at-home-the-picture-id1350827445?b=1&k=20&m=1350827445&s=170667a&w=0&h=v07Bm_hB--zJsVMzlfn4QYVO2gOgOs-HcjCyYdBKD74=",
+        "name_es": "suegra",
+        "id": 3
+      },
+      {
+        "name": "mom",
+        "image_url": "https://media.istockphoto.com/photos/mother-kissing-with-her-baby-boy-in-her-arms-picture-id1369926465?b=1&k=20&m=1369926465&s=170667a&w=0&h=bvcA3eFC7chSHlq5buWbdga8J4JvyANccT1fKpJPUKI=",
+        "name_es": "mamá",
+        "id": 4
+      },
+      {
+        "name": "aunt",
+        "image_url": "https://media.istockphoto.com/photos/loving-embrace-picture-id1290879168?b=1&k=20&m=1290879168&s=170667a&w=0&h=fQQmI64MjmGK_fYOrAoY0alL3Q_h_2YpBoHKM8OuVwI=",
+        "name_es": "tía",
+        "id": 5
+      },
+      {
+        "name": "boyfriend",
+        "image_url": "https://media.istockphoto.com/photos/man-comforting-his-girlfriend-at-home-picture-id1395273156?b=1&k=20&m=1395273156&s=170667a&w=0&h=lawcxClPFUi0xk3ll1i9p0LTpq6Hnlba3J1XTsmpaew=",
+        "name_es": "novio",
+        "id": 6
+      },
+      {
+        "name": "brother",
+        "image_url": "https://media.istockphoto.com/photos/little-boy-meeting-his-cute-baby-sister-picture-id1367706938?b=1&k=20&m=1367706938&s=170667a&w=0&h=pyT8pu2R8dBJykOJF9qRwxIyakKcJhSOk8xt_GEe1aQ=",
+        "name_es": "hermano",
+        "id": 7
+      },
+      {
+        "name": "brother in law",
+        "image_url": "https://media.istockphoto.com/photos/family-visiting-montreal-in-summer-picture-id1218674305?b=1&k=20&m=1218674305&s=170667a&w=0&h=1fxw4iHv6GnwHZqdYhR0oPGEzKg5POUBOtABRdhLRIo=",
+        "name_es": "cuñado",
+        "id": 8
+      },
+      {
+        "name": "cousin",
+        "image_url": "https://media.istockphoto.com/photos/hanging-with-my-bro-picture-id579748232?b=1&k=20&m=579748232&s=170667a&w=0&h=_FI-e5zvvNvBGQ7UhYsaRhotGWvXs5KWElyVfQMHjPI=",
+        "name_es": "prima",
+        "id": 9
+      },
+      {
+        "name": "dad",
+        "image_url": "https://media.istockphoto.com/photos/youre-doing-so-well-picture-id1336689586?b=1&k=20&m=1336689586&s=170667a&w=0&h=sDnpgNiLvaBJ5ChpVyYHOHfb5RnnHwCHZiwfcXymm0g=",
+        "name_es": "papá",
+        "id": 10
+      },
+      {
+        "name": "daddy",
+        "image_url": "https://media.istockphoto.com/photos/youre-doing-so-well-picture-id1336689586?b=1&k=20&m=1336689586&s=170667a&w=0&h=sDnpgNiLvaBJ5ChpVyYHOHfb5RnnHwCHZiwfcXymm0g=",
+        "name_es": "papi",
+        "id": 11
+      },
+      {
+        "name": "daughter",
+        "image_url": "https://media.istockphoto.com/photos/inhome-care-for-seniors-picture-id1371139520?b=1&k=20&m=1371139520&s=170667a&w=0&h=xmLYMhdAZz1jNUw44ye0rVBAYilwlCuOsrCU1fLns2w=",
+        "name_es": "hija",
+        "id": 12
+      },
+      {
+        "name": "daughter in law",
+        "image_url": "https://media.istockphoto.com/photos/asian-chinese-family-senior-couple-giving-red-packet-ang-pao-to-their-picture-id1279633694?b=1&k=20&m=1279633694&s=170667a&w=0&h=co-S1YXyAiLiXQkXPwLN-700kFEqy-L1wwrNvp002J4=",
+        "name_es": "nuera",
+        "id": 13
+      },
+      {
+        "name": "father",
+        "image_url": "https://images.unsplash.com/photo-1657664057951-17679442315d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxzZWFyY2h8MXx8ZmF0aGVyfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+        "name_es": "padre",
+        "id": 14
+      },
+      {
+        "name": "father in law",
+        "image_url": "https://media.istockphoto.com/photos/senior-man-laughing-with-son-posing-on-city-waterfront-picture-id1336010263?b=1&k=20&m=1336010263&s=170667a&w=0&h=S9x9K6RB6YyIvDNN-JeuFYOip8XKSsnK0bLNnmoG3vw=",
+        "name_es": "suegro",
+        "id": 15
+      },
+      {
+        "name": "girlfriend",
+        "image_url": "https://media.istockphoto.com/photos/two-beautiful-women-having-fun-picture-id1199180896?b=1&k=20&m=1199180896&s=170667a&w=0&h=e483w94yrh9LmC0TmhYByr_vNoMW1iyLIwKzpEwhiNw=",
+        "name_es": "novia",
+        "id": 16
+      },
+      {
+        "name": "godfather",
+        "image_url": "https://media.istockphoto.com/photos/baptism-of-the-child-godfathers-with-a-child-picture-id1315121724?b=1&k=20&m=1315121724&s=170667a&w=0&h=YdBRo2vCxF3P_WGh5msAmbth2CWP6NeozVyvoJ_Lb5g=",
+        "name_es": "padrino",
+        "id": 17
+      },
+      {
+        "name": "godmother",
+        "image_url": "https://media.istockphoto.com/photos/loving-embrace-picture-id1290879168?b=1&k=20&m=1290879168&s=170667a&w=0&h=fQQmI64MjmGK_fYOrAoY0alL3Q_h_2YpBoHKM8OuVwI=",
+        "name_es": "madrina",
+        "id": 18
+      },
+      {
+        "name": "grandad",
+        "image_url": "https://media.istockphoto.com/photos/african-american-grandchild-and-grandfather-read-a-book-together-at-picture-id1265056799?b=1&k=20&m=1265056799&s=170667a&w=0&h=mdmoIGBA-nip8XT_Yw8G0254VK2DArCnGC1elzsY_AI=",
+        "name_es": "abuela",
+        "id": 19
+      },
+      {
+        "name": "grandchildren",
+        "image_url": "https://media.istockphoto.com/photos/love-my-grandchildren-picture-id1289084512?b=1&k=20&m=1289084512&s=170667a&w=0&h=qZL3QW17OenmulSBMQ7YY9YPld0JMIQyFob1JGPYM2E=",
+        "name_es": "nietas",
+        "id": 20
+      },
+      {
+        "name": "granddaughter",
+        "image_url": "https://media.istockphoto.com/photos/family-caregiver-picture-id1336769770?b=1&k=20&m=1336769770&s=170667a&w=0&h=kgh6OzebpSKsRGpi8QHtmZL9d2hThU2cuOnEE1qAouc=",
+        "name_es": "nieta",
+        "id": 21
+      },
+      {
+        "name": "grandfather",
+        "image_url": "https://media.istockphoto.com/photos/african-american-grandchild-and-grandfather-read-a-book-together-at-picture-id1265056799?b=1&k=20&m=1265056799&s=170667a&w=0&h=mdmoIGBA-nip8XT_Yw8G0254VK2DArCnGC1elzsY_AI=",
+        "name_es": "abuelo",
+        "id": 22
+      },
+      {
+        "name": "grandma",
+        "image_url": "https://media.istockphoto.com/photos/grandmothers-love-picture-id1352163374?b=1&k=20&m=1352163374&s=170667a&w=0&h=Vp3Od0Lzs61Bg7IXvet6fkeJk4Z1lZdhBjAa2Ee3rRE=",
+        "name_es": "abuela",
+        "id": 23
+      },
+      {
+        "name": "grandmother",
+        "image_url": "https://media.istockphoto.com/photos/grandmothers-love-picture-id1352163374?b=1&k=20&m=1352163374&s=170667a&w=0&h=Vp3Od0Lzs61Bg7IXvet6fkeJk4Z1lZdhBjAa2Ee3rRE=",
+        "name_es": "abuela",
+        "id": 24
+      },
+      {
+        "name": "grandpa",
+        "image_url": "https://media.istockphoto.com/photos/grandfather-holding-grandson-toddler-by-the-swimming-pool-picture-id1312863264?b=1&k=20&m=1312863264&s=170667a&w=0&h=YclKOOeX7BnDKQM0NAC4_uJOH26VNKxIV7COTk02S4k=",
+        "name_es": "abuelo",
+        "id": 25
+      },
+      {
+        "name": "grandparents",
+        "image_url": "https://media.istockphoto.com/photos/old-man-carrying-grandson-on-shoulders-at-park-picture-id1385908363?b=1&k=20&m=1385908363&s=170667a&w=0&h=Ze9Y8bAeZN9Y5z7USkJNcPFTDLkRsVeCfhH5rUEzWpU=",
+        "name_es": "abuelas",
+        "id": 26
+      },
+      {
+        "name": "grandson",
+        "image_url": "https://media.istockphoto.com/photos/grandmother-and-grandson-sitting-on-the-bench-in-the-square-picture-id1311298277?b=1&k=20&m=1311298277&s=170667a&w=0&h=1v6YvkWrUV_3Q1xBL-vnjCKKepQCneUdjarczo8CJwA=",
+        "name_es": "nieto",
+        "id": 27
+      },
+      {
+        "name": "great grandfather",
+        "image_url": "https://media.istockphoto.com/photos/closeup-of-happy-asian-80s-year-old-greatgrandfather-with-beautiful-picture-id1394637028?b=1&k=20&m=1394637028&s=170667a&w=0&h=EoNZ6SrOlfHCcx53Zor0dgnSeEmxcEHBuZr6KQQiCkM=",
+        "name_es": "bisabuelo",
+        "id": 28
+      },
+      {
+        "name": "great grandmother",
+        "image_url": "https://media.istockphoto.com/photos/beautiful-ethnic-grandma-is-laughing-with-her-young-granddaughter-picture-id1149368505?b=1&k=20&m=1149368505&s=170667a&w=0&h=rIJUSdI9X_EMacWrZexL5_ggfHdHz2y2Yz3gUMh_YRc=",
+        "name_es": "bisabuela",
+        "id": 29
+      },
+      {
+        "name": "mommy",
+        "image_url": "https://media.istockphoto.com/photos/mother-kissing-with-her-baby-boy-in-her-arms-picture-id1369926465?b=1&k=20&m=1369926465&s=170667a&w=0&h=bvcA3eFC7chSHlq5buWbdga8J4JvyANccT1fKpJPUKI=",
+        "name_es": "mamá",
+        "id": 30
+      },
+      {
+        "name": "nephew",
+        "image_url": "https://media.istockphoto.com/photos/father-takes-selfie-while-son-holds-a-basketball-on-head-picture-id1168467477?b=1&k=20&m=1168467477&s=170667a&w=0&h=4AiEQY8cRcrcOZvAv4R2VFAqbdVJKPB-fTzJW4P9-mM=",
+        "name_es": "sobrino",
+        "id": 31
+      },
+      {
+        "name": "niece",
+        "image_url": "https://media.istockphoto.com/photos/little-girl-hugging-her-mom-on-the-beach-picture-id1318737810?b=1&k=20&m=1318737810&s=170667a&w=0&h=Fw4lOiB2pNFPsEtpoe8PMk6iZu7ev49Pd-bsFVUyoWg=",
+        "name_es": "sobrina",
+        "id": 32
+      },
+      {
+        "name": "parents",
+        "image_url": "https://media.istockphoto.com/photos/lets-explore-picture-id1324606440?b=1&k=20&m=1324606440&s=170667a&w=0&h=MQ7ahlSx_Vlw73tiXGVAr0KJ0lBpcTCiH_jDEitIVwk=",
+        "name_es": "madres",
+        "id": 33
+      },
+      {
+        "name": "sibling",
+        "image_url": "https://media.istockphoto.com/photos/hope-concept-picture-id1250686730?b=1&k=20&m=1250686730&s=170667a&w=0&h=qdzBS7g4472dNe0og0jA0oK2N0ewZ5nmF5XyiaQ9spU=",
+        "name_es": "hermana",
+        "id": 34
+      },
+      {
+        "name": "sister",
+        "image_url": "https://media.istockphoto.com/photos/rear-view-of-mother-and-daughter-embracing-sitting-on-bed-picture-id1351029356?b=1&k=20&m=1351029356&s=170667a&w=0&h=wPzna4f-5Wsh_lDwWFU2WIC_mVip0jFOEgKR0v5es6M=",
+        "name_es": "hermana",
+        "id": 35
+      },
+      {
+        "name": "sister in law",
+        "image_url": "https://media.istockphoto.com/photos/group-of-mature-adult-resting-on-a-rock-in-a-public-park-picture-id666702538?b=1&k=20&m=666702538&s=170667a&w=0&h=AShJcfna1ijBwmX__kpjJlsrEtaBcN5K_pIQtffi2qI=",
+        "name_es": "cuñada",
+        "id": 36
+      },
+      {
+        "name": "son",
+        "image_url": "https://media.istockphoto.com/photos/father-son-quality-time-picture-id1383889707?b=1&k=20&m=1383889707&s=170667a&w=0&h=6kJgejjnc5acGbNiJ_W06PhneBaBxNaESg0qX4PxVAM=",
+        "name_es": "hijo",
+        "id": 37
+      },
+      {
+        "name": "son in law",
+        "image_url": "https://media.istockphoto.com/photos/africanamerican-family-reunion-senior-woman-hugs-son-picture-id1336010630?b=1&k=20&m=1336010630&s=170667a&w=0&h=89P_OBoKCarkhTX_xUUkFQKiCKEgJGVVU3eH3rJQKgY=",
+        "name_es": "yerno",
+        "id": 38
+      },
+      {
+        "name": "stepdaughter",
+        "image_url": "https://media.istockphoto.com/photos/asian-daughter-and-her-adopted-caucasian-mother-raise-finger-thumbs-picture-id1361824101?b=1&k=20&m=1361824101&s=170667a&w=0&h=E0aDxEZ62ujFrwfm1reo5eaiNXsQrsLclGt_Do3sl2g=",
+        "name_es": "hijastra",
+        "id": 39
+      },
+      {
+        "name": "stepmother",
+        "image_url": "https://media.istockphoto.com/photos/family-fun-picture-id601384838?b=1&k=20&m=601384838&s=170667a&w=0&h=qvnqzzdFL_hDFjNCNUAjHGge0Lk7yKEa6TuEa900b4s=",
+        "name_es": "madrastra",
+        "id": 40
+      },
+      {
+        "name": "stepfather",
+        "image_url": "https://media.istockphoto.com/photos/blended-family-with-five-children-outdoors-at-a-park-picture-id1313553003?b=1&k=20&m=1313553003&s=170667a&w=0&h=wwJRSY7qs4ac5XbN3o8iG485AjH1yduSJRUhd7uEZAk=",
+        "name_es": "padrastro",
+        "id": 41
+      },
+      {
+        "name": "stepson",
+        "image_url": "https://media.istockphoto.com/photos/fingers-art-of-happy-couple-to-get-married-concept-of-stepson-is-joy-picture-id1391952815?b=1&k=20&m=1391952815&s=170667a&w=0&h=z2sc49UZZjHyFgl9ZKY3WH3YVBX9zHg3ZfZvdr3RhJk=",
+        "name_es": "hijastro",
+        "id": 42
+      },
+      {
+        "name": "uncle",
+        "image_url": "https://media.istockphoto.com/photos/uncles-playing-with-baby-niece-picture-id1394330102?b=1&k=20&m=1394330102&s=170667a&w=0&h=CLOAtK-AuPzwZvYSwgfU9VGqLpy_Xg9VjOzWOMT9Gk4=",
+        "name_es": "tío",
+        "id": 43
+      },
+      {
+        "name": "wife",
+        "image_url": "https://media.istockphoto.com/photos/senior-couple-dancing-together-picture-id1344980722?b=1&k=20&m=1344980722&s=170667a&w=0&h=eKb7pCBrEoshsOJ4fiesi1ZrRHGKaIIUya0dRw6s54E=",
+        "name_es": "esposa",
+        "id": 44
+      },
+      {
+        "name": "firstborn",
+        "image_url": "https://media.istockphoto.com/photos/pregnant-woman-combing-firstborn-daughters-hair-picture-id1332011927?b=1&k=20&m=1332011927&s=170667a&w=0&h=ffl60jP5VP_r3tU2UrtL0u3QL8kqAAUAYUu26ont4Bk=",
+        "name_es": "primogénita",
+        "id": 45
+      },
+      {
+        "name": "the eldest",
+        "image_url": "https://media.istockphoto.com/photos/portrait-of-a-pregnant-woman-receiving-a-gift-from-her-eldest-picture-id1359067568?b=1&k=20&m=1359067568&s=170667a&w=0&h=H9609xKgZjDsvxcoDsej8IS07CtA1l07718If6Nr15o=",
+        "name_es": "el mas viejo",
+        "id": 46
+      },
+      {
+        "name": "the youngest",
+        "image_url": "https://media.istockphoto.com/photos/birthday-to-our-youngest-family-member-picture-id1410765123?b=1&k=20&m=1410765123&s=170667a&w=0&h=Ny6rALUhFzPCT9mvkvlqSFoP2Ji6d6eW8sSg2Pi9u7Q=",
+        "name_es": "el más joven",
+        "id": 47
+      },
+      {
+        "name": "the baby of the family",
+        "image_url": "https://media.istockphoto.com/photos/the-family-homebuying-handbook-picture-id929884106?b=1&k=20&m=929884106&s=170667a&w=0&h=zvF-1yPrqlINbIw91jIupQSvlT83b8VAh3m-lvHBYJY=",
+        "name_es": "el bebé de la familia",
+        "id": 48
+      },
+      {
+        "name": "twins",
+        "image_url": "https://media.istockphoto.com/photos/father-and-his-baby-girls-picture-id1348483601?b=1&k=20&m=1348483601&s=170667a&w=0&h=RRKOFLbxO1Bji16W7pKEqG_m7xsnIlDEN5OiF6On-E8=",
+        "name_es": "mellizas",
+        "id": 49
+      },
+      {
+        "name": "adopted",
+        "image_url": "https://media.istockphoto.com/photos/three-multiethnic-children-in-a-blended-family-picture-id1338970384?b=1&k=20&m=1338970384&s=170667a&w=0&h=zgzIMEBF-N-1wV83uxutIk0S6LzPxHQtUY3Fhsu9UJw=",
+        "name_es": "adoptada",
+        "id": 50
+      },
+      {
+        "name": "orphan",
+        "image_url": "https://media.istockphoto.com/photos/poor-indian-children-asking-for-fresh-water-india-picture-id1161592438?b=1&k=20&m=1161592438&s=170667a&w=0&h=07bRoxSuWjfVG_99W3kQ6KpnJOgaXaUgU3URtyXPUKM=",
+        "name_es": "huérfana",
+        "id": 51
+      },
+      {
+        "name": "relative",
+        "image_url": "https://media.istockphoto.com/photos/family-enjoying-springtime-outdoors-with-kids-picture-id1357554923?b=1&k=20&m=1357554923&s=170667a&w=0&h=sgIpBW-Gj_5BhoJ4EUTv32D2umgTKhOxv0wZ3wM2A8w=",
+        "name_es": "pariente",
+        "id": 52
+      },
+      {
+        "name": "acquaintance",
+        "image_url": "https://media.istockphoto.com/photos/smiling-friends-using-a-phone-picture-id1360624697?b=1&k=20&m=1360624697&s=170667a&w=0&h=v6GFFF89DdovfJEh0zLifkeT0PZ4neEqBr1eRTVO7Lg=",
+        "name_es": "conocida",
+        "id": 53
+      },
+      {
+        "name": "generation",
+        "image_url": "https://media.istockphoto.com/photos/assisted-living-lifestyle-picture-id1328420674?b=1&k=20&m=1328420674&s=170667a&w=0&h=-V9z66OET8dAIofdqyBx8fC_IG9Bje7Pi9nsIRFdJOM=",
+        "name_es": "generación",
+        "id": 54
+      },
+      {
+        "name": "ancestors",
+        "image_url": "https://media.istockphoto.com/photos/grandfather-showing-pictures-to-grandson-picture-id1395569433?b=1&k=20&m=1395569433&s=170667a&w=0&h=_-YUoDkBwqHkFhIZUUHQVoS2c_D9S0odltsJR_V8-58=",
+        "name_es": "ancestros",
+        "id": 55
+      },
+      {
+        "name": "descendants",
+        "image_url": "https://media.istockphoto.com/photos/wild-boar-with-descendants-picture-id180807850?b=1&k=20&m=180807850&s=170667a&w=0&h=YmwQ1nV0L9Fwlku5HW9MY0-uTJnh6228fhQ587Fl1eI=",
+        "name_es": "descendientes",
+        "id": 56
+      }
+    ]
+  }
 }
