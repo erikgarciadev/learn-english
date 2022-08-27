@@ -1,0 +1,1211 @@
+{
+  "name": "Recipe Ingredients",
+  "data": {
+    "cards": [],
+    "table": {
+      "theads": ["English", "Spanish"],
+      "tdata": [
+        {
+          "td": [
+            {
+              "name": "recipe",
+              "lang": "en"
+            },
+            {
+              "name": "receta de cocina",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "ingredient",
+              "lang": "en"
+            },
+            {
+              "name": "ingrediente",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "baking powder",
+              "lang": "en"
+            },
+            {
+              "name": "levadura en polvo, polvo para hornear",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "baking soda",
+              "lang": "en"
+            },
+            {
+              "name": "bicarbonato de sodio",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "ground beef",
+              "lang": "en"
+            },
+            {
+              "name": "carne picada",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "breadcrumbs",
+              "lang": "en"
+            },
+            {
+              "name": "pan rallado",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "butter",
+              "lang": "en"
+            },
+            {
+              "name": "mantequilla",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "melted butter",
+              "lang": "en"
+            },
+            {
+              "name": "mantequilla derretida",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "unsalted butter",
+              "lang": "en"
+            },
+            {
+              "name": "mantequilla sin sal",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "buttermilk",
+              "lang": "en"
+            },
+            {
+              "name": "suero de mantequilla",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "cheese",
+              "lang": "en"
+            },
+            {
+              "name": "queso",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "chocolate chips",
+              "lang": "en"
+            },
+            {
+              "name": "pepitas de chocolate, chips de chocolate",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "cocoa",
+              "lang": "en"
+            },
+            {
+              "name": "cacao",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "cream",
+              "lang": "en"
+            },
+            {
+              "name": "crema",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "sour cream",
+              "lang": "en"
+            },
+            {
+              "name": "crema agria",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "whipping cream",
+              "lang": "en"
+            },
+            {
+              "name": "crema para batir",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "egg",
+              "lang": "en"
+            },
+            {
+              "name": "huevo",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "egg white",
+              "lang": "en"
+            },
+            {
+              "name": "clara de huevo",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "egg yolk",
+              "lang": "en"
+            },
+            {
+              "name": "yema de huevo",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "flour",
+              "lang": "en"
+            },
+            {
+              "name": "harina",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "all-purpose flour",
+              "lang": "en"
+            },
+            {
+              "name": "harina común",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "self-rising flour",
+              "lang": "en"
+            },
+            {
+              "name": "harina leudante",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "whole wheat flour",
+              "lang": "en"
+            },
+            {
+              "name": "harina de trigo integral",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "almond flour",
+              "lang": "en"
+            },
+            {
+              "name": "harina de almendras",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "corn flour",
+              "lang": "en"
+            },
+            {
+              "name": "harina de maíz, maicena",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "rice flour",
+              "lang": "en"
+            },
+            {
+              "name": "harina de arroz",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "jam",
+              "lang": "en"
+            },
+            {
+              "name": "mermelada",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "milk",
+              "lang": "en"
+            },
+            {
+              "name": "leche",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "condensed milk",
+              "lang": "en"
+            },
+            {
+              "name": "leche condensada",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "dried milk",
+              "lang": "en"
+            },
+            {
+              "name": "leche en polvo",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "skim milk",
+              "lang": "en"
+            },
+            {
+              "name": "leche desnatada/descremada",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "whole milk",
+              "lang": "en"
+            },
+            {
+              "name": "leche entera",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "almond milk",
+              "lang": "en"
+            },
+            {
+              "name": "leche de almendras",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "margarine",
+              "lang": "en"
+            },
+            {
+              "name": "margarina",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "oil",
+              "lang": "en"
+            },
+            {
+              "name": "aceite",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "canola oil",
+              "lang": "en"
+            },
+            {
+              "name": "aceite de canola",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "olive oil",
+              "lang": "en"
+            },
+            {
+              "name": "aceite de oliva",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "sunflower oil",
+              "lang": "en"
+            },
+            {
+              "name": "aceite de girasol",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "vegetable oil",
+              "lang": "en"
+            },
+            {
+              "name": "aceite vegetal",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "pepper",
+              "lang": "en"
+            },
+            {
+              "name": "pimienta",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "salt",
+              "lang": "en"
+            },
+            {
+              "name": "sal",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "spice",
+              "lang": "en"
+            },
+            {
+              "name": "especia",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "sugar",
+              "lang": "en"
+            },
+            {
+              "name": "azúcar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "brown sugar",
+              "lang": "en"
+            },
+            {
+              "name": "azúcar morena",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "powdered sugar",
+              "lang": "en"
+            },
+            {
+              "name": "azúcar glas, azúcar impalpable",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "white sugar",
+              "lang": "en"
+            },
+            {
+              "name": "azúcar blanca",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "vanilla extract",
+              "lang": "en"
+            },
+            {
+              "name": "extracto de vainilla, esencia de vainilla",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "water",
+              "lang": "en"
+            },
+            {
+              "name": "agua",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "cold water",
+              "lang": "en"
+            },
+            {
+              "name": "agua fría",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "warm water",
+              "lang": "en"
+            },
+            {
+              "name": "agua tibia",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "boiling water",
+              "lang": "en"
+            },
+            {
+              "name": "agua hirviendo",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "yeast",
+              "lang": "en"
+            },
+            {
+              "name": "levadura",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "Measures - Medidas",
+              "lang": "en"
+            },
+            {
+              "name": "bowl",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "bol",
+              "lang": "en"
+            },
+            {
+              "name": "cup",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "taza",
+              "lang": "en"
+            },
+            {
+              "name": "1/2 cup",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "media taza",
+              "lang": "en"
+            },
+            {
+              "name": "1/3 cup",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "un tercio de taza",
+              "lang": "en"
+            },
+            {
+              "name": "1/4 cup",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "un cuarto de taza",
+              "lang": "en"
+            },
+            {
+              "name": "2/3 cup",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "dos tercios de taza",
+              "lang": "en"
+            },
+            {
+              "name": "tablespoon (tbsp)",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "cucharada",
+              "lang": "en"
+            },
+            {
+              "name": "teaspoon (tsp)",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "cucharadita",
+              "lang": "en"
+            },
+            {
+              "name": "pinch",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "pizca",
+              "lang": "en"
+            },
+            {
+              "name": "Cooking verbs - Verbos para cocinar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "to beat",
+              "lang": "en"
+            },
+            {
+              "name": "batir",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "to chop",
+              "lang": "en"
+            },
+            {
+              "name": "picar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "to cut",
+              "lang": "en"
+            },
+            {
+              "name": "cortar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "to drain",
+              "lang": "en"
+            },
+            {
+              "name": "escurrir",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "to glaze",
+              "lang": "en"
+            },
+            {
+              "name": "glasear, recubrir",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "to grate",
+              "lang": "en"
+            },
+            {
+              "name": "rallar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "to grind",
+              "lang": "en"
+            },
+            {
+              "name": "picar, moler",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "to heat",
+              "lang": "en"
+            },
+            {
+              "name": "calentar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "to mash",
+              "lang": "en"
+            },
+            {
+              "name": "hacer puré",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "to melt",
+              "lang": "en"
+            },
+            {
+              "name": "derretir",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "to mill",
+              "lang": "en"
+            },
+            {
+              "name": "moler",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "to mince",
+              "lang": "en"
+            },
+            {
+              "name": "picar, moler",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "to mix",
+              "lang": "en"
+            },
+            {
+              "name": "mezclar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "to peel",
+              "lang": "en"
+            },
+            {
+              "name": "pelar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "to pour",
+              "lang": "en"
+            },
+            {
+              "name": "echar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "to season",
+              "lang": "en"
+            },
+            {
+              "name": "sazonar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "to sieve, to sift",
+              "lang": "en"
+            },
+            {
+              "name": "tamizar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "to slice",
+              "lang": "en"
+            },
+            {
+              "name": "rebanar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "to spice",
+              "lang": "en"
+            },
+            {
+              "name": "sazonar con especias",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "to strain",
+              "lang": "en"
+            },
+            {
+              "name": "colar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "",
+              "lang": "en"
+            },
+            {
+              "name": "to bake",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "hornear, asar",
+              "lang": "en"
+            },
+            {
+              "name": "to barbecue",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "asar a la parrilla",
+              "lang": "en"
+            },
+            {
+              "name": "to boil",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "hervir",
+              "lang": "en"
+            },
+            {
+              "name": "to braise",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "cocinar a fuego lento, guisar",
+              "lang": "en"
+            },
+            {
+              "name": "to broil",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "asar a la parrilla",
+              "lang": "en"
+            },
+            {
+              "name": "to cook",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "cocinar",
+              "lang": "en"
+            },
+            {
+              "name": "to fry",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "freír",
+              "lang": "en"
+            },
+            {
+              "name": "to grill",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "asar a la parrilla",
+              "lang": "en"
+            },
+            {
+              "name": "to roast",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "asar al horno, rostizar",
+              "lang": "en"
+            },
+            {
+              "name": "to poach",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "escalfar",
+              "lang": "en"
+            },
+            {
+              "name": "to sauté",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "saltear, sofreír",
+              "lang": "en"
+            },
+            {
+              "name": "to sear",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "soasar",
+              "lang": "en"
+            },
+            {
+              "name": "to simmer",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "hervir a fuego lento",
+              "lang": "en"
+            },
+            {
+              "name": "to steam",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "cocinar al vapor",
+              "lang": "en"
+            },
+            {
+              "name": "to stew",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "cocinar a fuego lento, guisar",
+              "lang": "en"
+            },
+            {
+              "name": "to stir-fry",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "saltear, sofreír",
+              "lang": "en"
+            },
+            {
+              "name": "to toast",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "tostar",
+              "lang": "en"
+            },
+            {
+              "name": "to microwave",
+              "lang": "es"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

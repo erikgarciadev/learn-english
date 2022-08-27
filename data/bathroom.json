@@ -1,0 +1,623 @@
+{
+  "name": "Bathroom",
+  "data": {
+    "cards": [],
+    "table": {
+      "theads": ["English", "Spanish"],
+      "tdata": [
+        {
+          "td": [
+            {
+              "name": "bath",
+              "lang": "en"
+            },
+            {
+              "name": "baño",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "bathroom",
+              "lang": "en"
+            },
+            {
+              "name": "baño",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "bath mat",
+              "lang": "en"
+            },
+            {
+              "name": "alfombra de baño",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "bath salts",
+              "lang": "en"
+            },
+            {
+              "name": "sales de baño",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "bath towel",
+              "lang": "en"
+            },
+            {
+              "name": "toallón",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "bidet",
+              "lang": "en"
+            },
+            {
+              "name": "bidé",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "cold water",
+              "lang": "en"
+            },
+            {
+              "name": "agua fría",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "cold water tap",
+              "lang": "en"
+            },
+            {
+              "name": "grifo de agua fría",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "comb",
+              "lang": "en"
+            },
+            {
+              "name": "peine",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "drain",
+              "lang": "en"
+            },
+            {
+              "name": "desagüe",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "faucet",
+              "lang": "en"
+            },
+            {
+              "name": "grifo, canilla",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "hairbrush",
+              "lang": "en"
+            },
+            {
+              "name": "cepillo para cabello",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "hairdryer",
+              "lang": "en"
+            },
+            {
+              "name": "secador de cabello",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "hand towel",
+              "lang": "en"
+            },
+            {
+              "name": "toalla de mano",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "hot water",
+              "lang": "en"
+            },
+            {
+              "name": "agua caliente",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "hot water tap",
+              "lang": "en"
+            },
+            {
+              "name": "grifo de agua caliente",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "lavatory",
+              "lang": "en"
+            },
+            {
+              "name": "lavabo",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "medicine chest",
+              "lang": "en"
+            },
+            {
+              "name": "botiquín",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "mirror",
+              "lang": "en"
+            },
+            {
+              "name": "espejo",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "nailbrush",
+              "lang": "en"
+            },
+            {
+              "name": "cepillo para uñas",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "razor",
+              "lang": "en"
+            },
+            {
+              "name": "maquinilla de afeitar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "electric razor",
+              "lang": "en"
+            },
+            {
+              "name": "máquina de afeitar (eléctrica)",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "restroom",
+              "lang": "en"
+            },
+            {
+              "name": "baño público",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "scales",
+              "lang": "en"
+            },
+            {
+              "name": "balanza",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "shampoo",
+              "lang": "en"
+            },
+            {
+              "name": "champú",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "shaver",
+              "lang": "en"
+            },
+            {
+              "name": "máquina de afeitar (eléctrica)",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "shaving cream",
+              "lang": "en"
+            },
+            {
+              "name": "crema de afeitar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "shower",
+              "lang": "en"
+            },
+            {
+              "name": "ducha",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "soap",
+              "lang": "en"
+            },
+            {
+              "name": "jabón",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "soap tray",
+              "lang": "en"
+            },
+            {
+              "name": "jabonera",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "sponge",
+              "lang": "en"
+            },
+            {
+              "name": "esponja",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "toilet",
+              "lang": "en"
+            },
+            {
+              "name": "inodoro",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "toilet",
+              "lang": "en"
+            },
+            {
+              "name": "baño",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "toilets",
+              "lang": "en"
+            },
+            {
+              "name": "baño público",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "toilet paper",
+              "lang": "en"
+            },
+            {
+              "name": "papel higiénico",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "toilet roll",
+              "lang": "en"
+            },
+            {
+              "name": "rollo de papel higiénico",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "toiletries",
+              "lang": "en"
+            },
+            {
+              "name": "artículos de tocador",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "toothbrush",
+              "lang": "en"
+            },
+            {
+              "name": "cepillo de dientes",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "toothpaste",
+              "lang": "en"
+            },
+            {
+              "name": "pasta dentífrica",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "towel",
+              "lang": "en"
+            },
+            {
+              "name": "toalla",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "towel rack",
+              "lang": "en"
+            },
+            {
+              "name": "toallero",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "tub",
+              "lang": "en"
+            },
+            {
+              "name": "bañera",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "washroom",
+              "lang": "en"
+            },
+            {
+              "name": "baño público",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "to brush one's hair",
+              "lang": "en"
+            },
+            {
+              "name": "cepillarse el cabello",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "to brush one's nails",
+              "lang": "en"
+            },
+            {
+              "name": "cepillarse las uñas",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "to brush one's teeth",
+              "lang": "en"
+            },
+            {
+              "name": "cepillarse los dientes",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "to comb one's hair",
+              "lang": "en"
+            },
+            {
+              "name": "peinarse",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "to take a bath",
+              "lang": "en"
+            },
+            {
+              "name": "tomar un baño",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "to take a shower",
+              "lang": "en"
+            },
+            {
+              "name": "tomar una ducha",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "to shave",
+              "lang": "en"
+            },
+            {
+              "name": "afeitarse",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "to wash oneself",
+              "lang": "en"
+            },
+            {
+              "name": "lavarse",
+              "lang": "es"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

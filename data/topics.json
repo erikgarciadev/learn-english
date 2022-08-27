@@ -21,8 +21,32 @@
       "title": "Seasons"
     },
     {
-        "slug": "days_of_the_week",
-        "title": "Days of the Week"
-      }
+      "slug": "days_of_the_week",
+      "title": "Days of the Week"
+    },
+    {
+      "slug": "acronyms",
+      "title": "Acronyms"
+    },
+    {
+      "slug": "sports",
+      "title": "Sports"
+    },
+    {
+      "slug": "personality_positive",
+      "title": "Personality - Positive aspect"
+    },
+    {
+      "slug": "personality_negative",
+      "title": "Personality - Negative aspect"
+    },
+    {
+      "slug": "bathroom",
+      "title":"Bathroom"
+    },
+    {
+      "slug":"recipe_ingredients",
+      "title": "Recipe Ingredients"
+    }
   ]
 }

@@ -1,0 +1,659 @@
+{
+  "name": "Acronyms",
+  "data": {
+    "cards": [],
+    "table": {
+      "theads": ["English", "Spanish"],
+      "tdata": [
+        {
+          "td": [
+            {
+              "name": "AC = air conditioning",
+              "lang": "en"
+            },
+            {
+              "name": "aire acondicionado",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "AD = Anno Domini",
+              "lang": "en"
+            },
+            {
+              "name": "después de Cristo",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "AKA = also known as",
+              "lang": "en"
+            },
+            {
+              "name": "también conocido como",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "ASAP = as soon as possible",
+              "lang": "en"
+            },
+            {
+              "name": "tan pronto como sea posible",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "ATM = automated teller machine",
+              "lang": "en"
+            },
+            {
+              "name": "cajero automático",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "B&B = bed and breakfast",
+              "lang": "en"
+            },
+            {
+              "name": "cama y desayuno",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "B2B = business to business",
+              "lang": "en"
+            },
+            {
+              "name": "de empresa a empresa",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "B2C = business to customer",
+              "lang": "en"
+            },
+            {
+              "name": "de empresa a cliente",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "BC = before Christ",
+              "lang": "en"
+            },
+            {
+              "name": "antes de Cristo",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "BLT = bacon, lettuce, tomato",
+              "lang": "en"
+            },
+            {
+              "name": "tocino, lechuga, tomate",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "CEO = Chief Executive Officer",
+              "lang": "en"
+            },
+            {
+              "name": "director ejecutivo",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "CIA = Central Intelligence Agency",
+              "lang": "en"
+            },
+            {
+              "name": "CIA = Agencia Central de Inteligencia",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "EEC = European Economic Community",
+              "lang": "en"
+            },
+            {
+              "name": "CEE = Comunidad Económica Europea",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "ECG = electrocardiogram",
+              "lang": "en"
+            },
+            {
+              "name": "electrocardiograma",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "ET = extra terrestrial",
+              "lang": "en"
+            },
+            {
+              "name": "extraterrestre",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "EU = European Union",
+              "lang": "en"
+            },
+            {
+              "name": "UE = Unión Europea",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "FAQ = frequently asked questions",
+              "lang": "en"
+            },
+            {
+              "name": "preguntas frecuentes",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "FBI = Federal Bureau of Investigation",
+              "lang": "en"
+            },
+            {
+              "name": "FBI = Oficina Federal de Investigación",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "FCC = Federal Communications Commission",
+              "lang": "en"
+            },
+            {
+              "name": "FCC = Comisión Federal de Comunicaciones",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "FDA = Food and Drug Administration",
+              "lang": "en"
+            },
+            {
+              "name": "FDA = Departamento de Control de Alimentos y Medicamentos",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "FYI = for your information",
+              "lang": "en"
+            },
+            {
+              "name": "para su información",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "G7 = Group of Seven (Countries)",
+              "lang": "en"
+            },
+            {
+              "name": "G7 = Grupo de los Siete (Países)",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "G8 = Group of Eight (Countries)",
+              "lang": "en"
+            },
+            {
+              "name": "G8 = Grupo de los Ocho (Países)",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "G20 = Group of Twenty (Countries)",
+              "lang": "en"
+            },
+            {
+              "name": "G20 = Grupo de los Veinte (Países)",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "GDR = German Democratic Republic",
+              "lang": "en"
+            },
+            {
+              "name": "RDA = República Democrática Alemana",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "GDP = gross domestic product",
+              "lang": "en"
+            },
+            {
+              "name": "PIB = producto interno bruto",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "GNP = gross national product",
+              "lang": "en"
+            },
+            {
+              "name": "PNB = producto nacional bruto",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "ID = identification",
+              "lang": "en"
+            },
+            {
+              "name": "identificación",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "IQ = intelligence quotient",
+              "lang": "en"
+            },
+            {
+              "name": "cociente intelectual",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "ISBN = international standard book number",
+              "lang": "en"
+            },
+            {
+              "name": "número de libro estándar internacional",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "MA = Master of Arts",
+              "lang": "en"
+            },
+            {
+              "name": "Maestría en Humanidades / Filosofía y Letras",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "MBA = Master of Business Administration",
+              "lang": "en"
+            },
+            {
+              "name": "Maestría en Administración de Empresas",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "ME = Master of Engineering",
+              "lang": "en"
+            },
+            {
+              "name": "Maestría en Ingeniería",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "MPhil = Master of Philosophy",
+              "lang": "en"
+            },
+            {
+              "name": "Maestría en Filosofía",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "MSc = Master of Science",
+              "lang": "en"
+            },
+            {
+              "name": "Maestría en Ciencias",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "MC = master of ceremonies",
+              "lang": "en"
+            },
+            {
+              "name": "maestro de ceremonias",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "MTD = month to date",
+              "lang": "en"
+            },
+            {
+              "name": "en el mes actual",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "NAFTA = North American Free Trade Agreement",
+              "lang": "en"
+            },
+            {
+              "name": "TLCAN = Tratado de Libre Comercio de Norteamérica",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "NATO = North Atlantic Treaty Organization",
+              "lang": "en"
+            },
+            {
+              "name": "OTAN = Organización del Tratado del Atlántico Norte",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "OJ = orange juice",
+              "lang": "en"
+            },
+            {
+              "name": "jugo de naranja",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "PI = private investigator",
+              "lang": "en"
+            },
+            {
+              "name": "detective privado",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "PIN = personal identification number",
+              "lang": "en"
+            },
+            {
+              "name": "PIN, número/código de identificación personal",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "PR = public relations",
+              "lang": "en"
+            },
+            {
+              "name": "relaciones públicas",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "PS = post script",
+              "lang": "en"
+            },
+            {
+              "name": "PD = posdata",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "Q&A = questions and answers",
+              "lang": "en"
+            },
+            {
+              "name": "preguntas y respuestas",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "RGB = red, green, blue",
+              "lang": "en"
+            },
+            {
+              "name": "rojo, verde, azul",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "RIP = rest in peace",
+              "lang": "en"
+            },
+            {
+              "name": "que en paz descanse",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "RSVP = répondez s'il vous plaît (French)",
+              "lang": "en"
+            },
+            {
+              "name": "responda por favor",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "SPF = sun protection factor",
+              "lang": "en"
+            },
+            {
+              "name": "factor de protección solar",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "TGIF = thank God it's Friday",
+              "lang": "en"
+            },
+            {
+              "name": "gracias a Dios es viernes",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "UFO = unidentified flying object",
+              "lang": "en"
+            },
+            {
+              "name": "OVNI = objeto volador no identificado",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "UN = United Nations",
+              "lang": "en"
+            },
+            {
+              "name": "ONU = Organización de Naciones Unidas",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "WASP = white Anglo Saxon protestant",
+              "lang": "en"
+            },
+            {
+              "name": "blanco, anglosajón y protestante",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "WTO = World Trade Organization",
+              "lang": "en"
+            },
+            {
+              "name": "OMC = Organización Mundial del Comercio",
+              "lang": "es"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

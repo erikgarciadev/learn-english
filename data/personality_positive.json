@@ -1,0 +1,539 @@
+{
+  "name": "Personality - Positive aspect",
+  "data": {
+    "cards": [],
+    "table": {
+      "theads": ["English", "Spanish"],
+      "tdata": [
+        {
+          "td": [
+            {
+              "name": "ambitious",
+              "lang": "en"
+            },
+            {
+              "name": "ambicioso",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "attentive",
+              "lang": "en"
+            },
+            {
+              "name": "cortés",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "audacious",
+              "lang": "en"
+            },
+            {
+              "name": "audaz",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "calm",
+              "lang": "en"
+            },
+            {
+              "name": "calmo",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "charming",
+              "lang": "en"
+            },
+            {
+              "name": "encantador",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "cheerful = amusing",
+              "lang": "en"
+            },
+            {
+              "name": "alegre, feliz, divertido",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "considerate",
+              "lang": "en"
+            },
+            {
+              "name": "considerado",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "courageous = brave",
+              "lang": "en"
+            },
+            {
+              "name": "valiente",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "creative",
+              "lang": "en"
+            },
+            {
+              "name": "creativo",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "curious",
+              "lang": "en"
+            },
+            {
+              "name": "curioso, interesado",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "determined = b-willed",
+              "lang": "en"
+            },
+            {
+              "name": "decidido",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "energetic",
+              "lang": "en"
+            },
+            {
+              "name": "energético",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "extroverted",
+              "lang": "en"
+            },
+            {
+              "name": "extrovertido",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "frank",
+              "lang": "en"
+            },
+            {
+              "name": "franco",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "friendly",
+              "lang": "en"
+            },
+            {
+              "name": "amigable",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "generous",
+              "lang": "en"
+            },
+            {
+              "name": "generoso",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "gentle = kind, polite",
+              "lang": "en"
+            },
+            {
+              "name": "amable",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "honest = truthful",
+              "lang": "en"
+            },
+            {
+              "name": "honesto",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "humble",
+              "lang": "en"
+            },
+            {
+              "name": "humilde",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "ingenious",
+              "lang": "en"
+            },
+            {
+              "name": "ingenioso",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "likable / likeable",
+              "lang": "en"
+            },
+            {
+              "name": "agradable, simpático",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "loyal = faithful",
+              "lang": "en"
+            },
+            {
+              "name": "leal",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "mature",
+              "lang": "en"
+            },
+            {
+              "name": "maduro",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "obedient",
+              "lang": "en"
+            },
+            {
+              "name": "obediente",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "optimistic",
+              "lang": "en"
+            },
+            {
+              "name": "optimista",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "organized",
+              "lang": "en"
+            },
+            {
+              "name": "organizado",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "passionate",
+              "lang": "en"
+            },
+            {
+              "name": "apasionado",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "patient",
+              "lang": "en"
+            },
+            {
+              "name": "paciente",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "polite",
+              "lang": "en"
+            },
+            {
+              "name": "amable",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "practical",
+              "lang": "en"
+            },
+            {
+              "name": "práctico",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "realistic",
+              "lang": "en"
+            },
+            {
+              "name": "realista",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "reliable = trustworthy",
+              "lang": "en"
+            },
+            {
+              "name": "confiable",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "respectful",
+              "lang": "en"
+            },
+            {
+              "name": "respetuoso",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "responsible",
+              "lang": "en"
+            },
+            {
+              "name": "responsable",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "self-confident",
+              "lang": "en"
+            },
+            {
+              "name": "seguro de sí mismo",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "sensible",
+              "lang": "en"
+            },
+            {
+              "name": "sensato",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "sensitive",
+              "lang": "en"
+            },
+            {
+              "name": "sensible",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "sincere",
+              "lang": "en"
+            },
+            {
+              "name": "sincero",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "sociable = outgoing",
+              "lang": "en"
+            },
+            {
+              "name": "sociable",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "strong",
+              "lang": "en"
+            },
+            {
+              "name": "fuerte",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "sympathetic",
+              "lang": "en"
+            },
+            {
+              "name": "compasivo",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "thankful = grateful",
+              "lang": "en"
+            },
+            {
+              "name": "agradecido",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "tolerant = patient",
+              "lang": "en"
+            },
+            {
+              "name": "paciente",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "understanding",
+              "lang": "en"
+            },
+            {
+              "name": "comprensivo",
+              "lang": "es"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

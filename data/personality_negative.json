@@ -1,0 +1,683 @@
+{
+  "name": "Personality - Negative aspect",
+  "data": {
+    "cards": [],
+    "table": {
+      "theads": ["English", "Spanish"],
+      "tdata": [
+        {
+          "td": [
+            {
+              "name": "absent-minded",
+              "lang": "en"
+            },
+            {
+              "name": "distraído, despistado",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "aggressive",
+              "lang": "en"
+            },
+            {
+              "name": "agresivo",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "annoying",
+              "lang": "en"
+            },
+            {
+              "name": "molesto",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "arrogant",
+              "lang": "en"
+            },
+            {
+              "name": "arrogante, prepotente",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "bad-tempered",
+              "lang": "en"
+            },
+            {
+              "name": "malhumorado",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "boastful",
+              "lang": "en"
+            },
+            {
+              "name": "fanfarrón",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "bossy",
+              "lang": "en"
+            },
+            {
+              "name": "mandón",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "cheeky",
+              "lang": "en"
+            },
+            {
+              "name": "atrevido",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "clumsy",
+              "lang": "en"
+            },
+            {
+              "name": "torpe",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "deceitful",
+              "lang": "en"
+            },
+            {
+              "name": "falso",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "dishonest",
+              "lang": "en"
+            },
+            {
+              "name": "deshonesto",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "disrespectful",
+              "lang": "en"
+            },
+            {
+              "name": "irrespetuoso",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "dominant",
+              "lang": "en"
+            },
+            {
+              "name": "dominante",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "dull = boring",
+              "lang": "en"
+            },
+            {
+              "name": "aburrido",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "eccentric",
+              "lang": "en"
+            },
+            {
+              "name": "excéntrico",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "envious",
+              "lang": "en"
+            },
+            {
+              "name": "envidioso",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "forgetful",
+              "lang": "en"
+            },
+            {
+              "name": "olvidadizo",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "frivolous",
+              "lang": "en"
+            },
+            {
+              "name": "frívolo",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "fussy",
+              "lang": "en"
+            },
+            {
+              "name": "quisquilloso",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "hypocritical",
+              "lang": "en"
+            },
+            {
+              "name": "hipócrita",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "impatient",
+              "lang": "en"
+            },
+            {
+              "name": "impaciente",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "impulsive",
+              "lang": "en"
+            },
+            {
+              "name": "impulsivo",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "indifferent",
+              "lang": "en"
+            },
+            {
+              "name": "indiferente",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "insecure",
+              "lang": "en"
+            },
+            {
+              "name": "inseguro",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "insensitive",
+              "lang": "en"
+            },
+            {
+              "name": "insensible",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "insolent",
+              "lang": "en"
+            },
+            {
+              "name": "insolente",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "introverted",
+              "lang": "en"
+            },
+            {
+              "name": "introvertido",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "irascible",
+              "lang": "en"
+            },
+            {
+              "name": "irascible",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "irresponsible",
+              "lang": "en"
+            },
+            {
+              "name": "irresponsable",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "jealous",
+              "lang": "en"
+            },
+            {
+              "name": "celoso",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "lazy",
+              "lang": "en"
+            },
+            {
+              "name": "haragán",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "lonely",
+              "lang": "en"
+            },
+            {
+              "name": "solitario",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "materialistic",
+              "lang": "en"
+            },
+            {
+              "name": "materialista",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "mean = cruel",
+              "lang": "en"
+            },
+            {
+              "name": "cruel",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "mean = stingy,  tight-fisted",
+              "lang": "en"
+            },
+            {
+              "name": "mezquino",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "modest",
+              "lang": "en"
+            },
+            {
+              "name": "modesto",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "moody",
+              "lang": "en"
+            },
+            {
+              "name": "malhumorado",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "nosey = nosy",
+              "lang": "en"
+            },
+            {
+              "name": "metido",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "obsessed",
+              "lang": "en"
+            },
+            {
+              "name": "obsesionado",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "pessimistic",
+              "lang": "en"
+            },
+            {
+              "name": "pesimista",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "proud = arrogant",
+              "lang": "en"
+            },
+            {
+              "name": "orgulloso",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "quarrelsome",
+              "lang": "en"
+            },
+            {
+              "name": "combativo, pendenciero",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "querulous",
+              "lang": "en"
+            },
+            {
+              "name": "quejumbroso",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "resentful",
+              "lang": "en"
+            },
+            {
+              "name": "rencoroso",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "rude = impolite",
+              "lang": "en"
+            },
+            {
+              "name": "descortés",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "selfish",
+              "lang": "en"
+            },
+            {
+              "name": "egoísta",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "self-seeking",
+              "lang": "en"
+            },
+            {
+              "name": "interesado",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "shy",
+              "lang": "en"
+            },
+            {
+              "name": "tímido",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "spiteful",
+              "lang": "en"
+            },
+            {
+              "name": "rencoroso, vengativo",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "strict",
+              "lang": "en"
+            },
+            {
+              "name": "estricto",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "stubborn = obstinate",
+              "lang": "en"
+            },
+            {
+              "name": "obstinado",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "talkative",
+              "lang": "en"
+            },
+            {
+              "name": "charlatán, parlanchín",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "unpredictable",
+              "lang": "en"
+            },
+            {
+              "name": "impredecible",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "unreliable = untrustworthy",
+              "lang": "en"
+            },
+            {
+              "name": "de poca confianza",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "unsympathetic",
+              "lang": "en"
+            },
+            {
+              "name": "apático",
+              "lang": "es"
+            }
+          ]
+        },
+        {
+          "td": [
+            {
+              "name": "vain = conceited",
+              "lang": "en"
+            },
+            {
+              "name": "vanidoso",
+              "lang": "es"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Name",
+  "data": {
+    "cards": [],
+    "table": {
+      "theads": ["English", "Spanish"],
+      "tdata": [
+        {
+          "td": [
+            {
+              "name": "January",
+              "lang": "en"
+            },
+            {
+              "name": "Enero",
+              "lang": "es"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
